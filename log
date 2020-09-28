@@ -1,0 +1,1321 @@
+2020-06-10 15:27:25: request {"role_id":"996000001","server_id":"996","type":"0","type_key":"2","money":"6"}
+2020-06-10 15:27:25: url=http://s997.charge.sxwj.stonegame.club:20997/bizpay/order?role_id=996000001&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-06-10 07:29:16: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-06-10 15:29:37: request {"role_id":"996000001","server_id":"996","type":"0","type_key":"2","money":"6"}
+2020-06-10 15:29:37: url=http://s997.charge.sxwj.stonegame.club:20997/bizpay/order?role_id=996000001&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-06-10 16:06:22: request {"role_id":"996000001","server_id":"996","type":"0","type_key":"2","money":"6"}
+2020-06-10 16:06:22: url=http://s997.charge.sxwj.stonegame.club:20997/bizpay/order?role_id=996000001&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-06-10 16:21:38: request {"role_id":"996000001","server_id":"996","type":"0","type_key":"2","money":"6"}
+2020-06-10 16:21:38: url=http://s997.charge.sxwj.stonegame.club:20997/bizpay/order?role_id=996000001&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-06-10 16:48:10: request {"role_id":"996000001","server_id":"996","type":"0","type_key":"2","money":"6"}
+2020-06-10 16:48:10: url=http://s997.charge.sxwj.stonegame.club:20997/bizpay/order?role_id=996000001&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-06-10 08:48:14: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-06-10 16:48:19: {"appId":"wx85e8e6fce747468a","nonceStr":"jXZulftsLkHTL660","timestamp":1591778899,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202006101648101055&mdata=6&s=53b35d5bb9b6ed2a06860b36c7bde5fc&code=0218L15x1ocNaf0INw1x1qzZ4x18L15W&state=123","signature":"b0380ec90f78a8095a0cc2218ffb7230ef029d3a","rawString":"jsapi_ticket=&noncestr=jXZulftsLkHTL660&timestamp=1591778899&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202006101648101055&mdata=6&s=53b35d5bb9b6ed2a06860b36c7bde5fc&code=0218L15x1ocNaf0INw1x1qzZ4x18L15W&state=123"}
+2020-06-10 16:48:19: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"Rg5tDFgvKUFwXbys","prepay_id":"wx10164819719692aace9e5ef11090689200","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"3A96ECE9E81970B12775E030B52FFBA5DBAC701657DAD5396B6C91824520B8CC","trade_type":"JSAPI"}
+2020-06-10 16:48:19: {"appId":"wxc9feabf90096782c","nonceStr":"acz06j05zpn1346eqlovmn3dyrowo51k","package":"prepay_id=wx10164819719692aace9e5ef11090689200","signType":"HMAC-SHA256","timeStamp":"1591778899","paySign":"D70DF1F572EB9A7B524BA96A094F698621D31D1D7756AB9E00C9DB5CD5FA0E3D"}
+2020-06-10 08:49:55: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-06-10 10:11:07: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-06-10 10:11:13: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-06-10 18:11:17: {"appId":"wx85e8e6fce747468a","nonceStr":"O3kOSoQ70IovHnpa","timestamp":1591783877,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202006101648101055&mdata=6&s=53b35d5bb9b6ed2a06860b36c7bde5fc&code=061Cydbh0llePu1cSCch0my7bh0Cydb5&state=123","signature":"87873c4d713f2f619cb3a1705d00ad95c4481887","rawString":"jsapi_ticket=&noncestr=O3kOSoQ70IovHnpa&timestamp=1591783877&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202006101648101055&mdata=6&s=53b35d5bb9b6ed2a06860b36c7bde5fc&code=061Cydbh0llePu1cSCch0my7bh0Cydb5&state=123"}
+2020-06-10 18:11:18: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"XYUWAZoWD6QFWJYk","prepay_id":"wx10181118288576aace9e5ef11199603400","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"D8B1B9B1CE9776144ECB99410A4C2D89C26063A9B6664F9DF6637843FA652A26","trade_type":"JSAPI"}
+2020-06-10 18:11:18: {"appId":"wxc9feabf90096782c","nonceStr":"rean4obqwuhnr5b8w68320vorh28rk7i","package":"prepay_id=wx10181118288576aace9e5ef11199603400","signType":"HMAC-SHA256","timeStamp":"1591783878","paySign":"941DEBEDB754B460C55F32BFB04B07040A18738B9DADC3663A4594AD88FB6A79"}
+2020-06-11 15:13:39: sync notify url connect db success 
+2020-06-11 15:13:39: ""
+2020-06-11 15:18:21: sync notify url connect db success 
+2020-06-11 15:18:21: ""
+2020-06-11 15:18:43: sync notify url connect db success 
+2020-06-11 15:18:43: ""
+2020-06-11 16:17:57: sync notify url connect db success 
+2020-06-11 16:17:57: ""
+2020-06-11 16:22:10: sync notify url connect db success 
+2020-06-11 16:22:10: ""
+2020-06-11 16:23:08: sync notify url connect db success 
+2020-06-11 16:23:08: ""
+2020-06-11 16:27:32: sync notify url connect db success 
+2020-06-11 16:27:32: ""
+2020-06-11 16:29:44: sync notify url connect db success 
+2020-06-11 16:29:44: ""
+2020-06-11 17:50:38: sync notify url connect db success 
+2020-06-11 17:50:38: ""
+2020-06-11 17:58:02: sync notify url connect db success 
+2020-06-11 17:58:02: ""
+2020-06-11 21:41:56: sync notify url connect db success 
+2020-06-11 21:41:56: ""
+2020-06-11 21:49:47: sync notify url connect db success 
+2020-06-11 21:49:47: ""
+2020-06-11 22:02:55: sync notify url connect db success 
+2020-06-11 22:02:55: ""
+2020-06-11 22:05:48: sync notify url connect db success 
+2020-06-11 22:05:48: ""
+2020-06-12 11:00:13: sync notify url connect db success 
+2020-06-12 11:00:13: ""
+2020-06-12 11:11:26: sync notify url connect db success 
+2020-06-12 11:11:26: ""
+2020-06-12 11:20:46: sync notify url connect db success 
+2020-06-12 11:20:46: ""
+2020-06-12 11:23:42: sync notify url connect db success 
+2020-06-12 11:23:42: ""
+2020-06-12 12:02:42: sync notify url connect db success 
+2020-06-12 12:02:42: ""
+2020-06-12 12:10:45: sync notify url connect db success 
+2020-06-12 12:10:45: ""
+2020-06-12 12:14:02: sync notify url connect db success 
+2020-06-12 12:14:02: ""
+2020-06-12 14:52:01: sync notify url connect db success 
+2020-06-12 14:52:01: ""
+2020-06-12 14:55:10: sync notify url connect db success 
+2020-06-12 14:55:10: ""
+2020-06-12 15:02:31: sync notify url connect db success 
+2020-06-12 15:02:31: ""
+2020-06-12 15:22:36: sync notify url connect db success 
+2020-06-12 15:22:36: ""
+2020-06-12 15:27:05: sync notify url connect db success 
+2020-06-12 15:27:05: ""
+2020-06-12 15:30:46: sync notify url connect db success 
+2020-06-12 15:30:46: ""
+2020-06-12 16:12:01: sync notify url connect db success 
+2020-06-12 16:12:01: ""
+2020-06-12 16:33:51: sync notify url connect db success 
+2020-06-12 16:33:51: ""
+2020-06-12 16:58:57: sync notify url connect db success 
+2020-06-12 16:58:57: ""
+2020-06-12 17:25:54: sync notify url connect db success 
+2020-06-12 17:25:54: ""
+2020-06-12 17:27:03: sync notify url connect db success 
+2020-06-12 17:27:03: ""
+2020-06-12 18:10:56: sync notify url connect db success 
+2020-06-12 18:10:56: ""
+2020-06-12 18:14:10: request {"role_id":"996000001","server_id":"996","type":"0","type_key":"2","money":"6"}
+2020-06-12 18:14:10: url=http://s997.charge.sxwj.stonegame.club:20997/bizpay/order?role_id=996000001&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-06-12 10:14:14: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-06-12 10:14:23: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-06-12 18:14:30: {"appId":"wx85e8e6fce747468a","nonceStr":"7ZiApdMUPRhkHJzV","timestamp":1591956870,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202006121814101001&mdata=6&s=3a58f34a85fce534b74440d850bfd362&code=061HOXBJ1YT0a00mnmEJ1DuJBJ1HOXB6&state=123","signature":"303d8c038857d78c91d0c97d30883d99400ec60f","rawString":"jsapi_ticket=&noncestr=7ZiApdMUPRhkHJzV&timestamp=1591956870&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202006121814101001&mdata=6&s=3a58f34a85fce534b74440d850bfd362&code=061HOXBJ1YT0a00mnmEJ1DuJBJ1HOXB6&state=123"}
+2020-06-12 18:14:30: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"2Ur7k3OWHLeknDIL","prepay_id":"wx12181430666813f0d9cbe39b1757863700","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"06655664D832C258C705E48D47F395DFA5F9032A67CD1F72B2C8E50A2C428C56","trade_type":"JSAPI"}
+2020-06-12 18:14:30: {"appId":"wxc9feabf90096782c","nonceStr":"zd9eqf9kfqkhuororgfnxy2rpayz1rei","package":"prepay_id=wx12181430666813f0d9cbe39b1757863700","signType":"HMAC-SHA256","timeStamp":"1591956870","paySign":"3A357F4761CB6F7E131E01B1072CBCC870636E33E2946197F66A5FD211227478"}
+2020-06-12 20:23:53: sync notify url connect db success 
+2020-06-12 20:23:53: ""
+2020-06-12 20:47:52: sync notify url connect db success 
+2020-06-12 20:47:52: ""
+2020-06-12 20:52:15: sync notify url connect db success 
+2020-06-12 20:52:15: ""
+2020-06-12 21:05:53: sync notify url connect db success 
+2020-06-12 21:05:53: ""
+2020-06-12 21:28:46: sync notify url connect db success 
+2020-06-12 21:28:46: ""
+2020-06-12 21:53:07: sync notify url connect db success 
+2020-06-12 21:53:07: ""
+2020-06-12 23:22:48: sync notify url connect db success 
+2020-06-12 23:22:48: ""
+2020-06-15 14:25:26: sync notify url connect db success 
+2020-06-15 14:25:26: ""
+2020-06-15 18:27:15: sync notify url connect db success 
+2020-06-15 18:27:15: ""
+2020-06-15 18:38:24: sync notify url connect db success 
+2020-06-15 18:38:24: ""
+2020-06-15 19:42:18: sync notify url connect db success 
+2020-06-15 19:42:18: ""
+2020-06-15 19:54:03: sync notify url connect db success 
+2020-06-15 19:54:03: ""
+2020-06-16 12:28:39: sync notify url connect db success 
+2020-06-16 12:28:39: ""
+2020-06-16 12:43:36: sync notify url connect db success 
+2020-06-16 12:43:36: ""
+2020-06-16 17:18:16: sync notify url connect db success 
+2020-06-16 17:18:16: ""
+2020-06-16 19:38:17: sync notify url connect db success 
+2020-06-16 19:38:17: ""
+2020-06-16 19:40:59: sync notify url connect db success 
+2020-06-16 19:40:59: ""
+2020-06-16 19:54:41: sync notify url connect db success 
+2020-06-16 19:54:41: ""
+2020-06-16 20:16:38: sync notify url connect db success 
+2020-06-16 20:16:38: ""
+2020-06-17 10:59:39: sync notify url connect db success 
+2020-06-17 10:59:39: ""
+2020-06-17 11:19:30: sync notify url connect db success 
+2020-06-17 11:19:30: ""
+2020-06-17 20:23:27: sync notify url connect db success 
+2020-06-17 20:23:27: ""
+2020-06-17 20:25:18: sync notify url connect db success 
+2020-06-17 20:25:18: ""
+2020-06-18 15:59:49: sync notify url connect db success 
+2020-06-18 15:59:49: ""
+2020-06-18 16:05:36: sync notify url connect db success 
+2020-06-18 16:05:36: ""
+2020-06-18 16:08:15: sync notify url connect db success 
+2020-06-18 16:08:15: ""
+2020-06-18 16:12:57: sync notify url connect db success 
+2020-06-18 16:12:57: ""
+2020-06-18 16:18:02: sync notify url connect db success 
+2020-06-18 16:18:02: ""
+2020-06-18 17:00:58: sync notify url connect db success 
+2020-06-18 17:00:58: ""
+2020-06-19 14:48:08: sync notify url connect db success 
+2020-06-19 14:48:08: ""
+2020-06-19 15:00:49: sync notify url connect db success 
+2020-06-19 15:00:49: ""
+2020-06-19 16:18:05: sync notify url connect db success 
+2020-06-19 16:18:05: ""
+2020-06-19 16:36:05: sync notify url connect db success 
+2020-06-19 16:36:05: ""
+2020-06-19 16:40:27: sync notify url connect db success 
+2020-06-19 16:40:27: ""
+2020-06-19 16:44:38: sync notify url connect db success 
+2020-06-19 16:44:38: ""
+2020-06-19 18:03:51: sync notify url connect db success 
+2020-06-19 18:03:51: ""
+2020-06-19 18:08:18: sync notify url connect db success 
+2020-06-19 18:08:18: ""
+2020-06-19 18:47:49: sync notify url connect db success 
+2020-06-19 18:47:49: ""
+2020-06-19 18:51:44: sync notify url connect db success 
+2020-06-19 18:51:44: ""
+2020-06-19 19:04:18: sync notify url connect db success 
+2020-06-19 19:04:18: ""
+2020-06-19 19:08:03: sync notify url connect db success 
+2020-06-19 19:08:03: ""
+2020-06-20 11:33:21: sync notify url connect db success 
+2020-06-20 11:33:21: ""
+2020-06-20 16:44:50: sync notify url connect db success 
+2020-06-20 16:44:50: ""
+2020-06-20 17:54:35: sync notify url connect db success 
+2020-06-20 17:54:35: ""
+2020-06-21 12:57:32: request {"role_id":"996000001","server_id":"996","type":"0","type_key":"2","money":"6"}
+2020-06-21 12:57:32: url=http://s997.charge.sxwj.stonegame.club:20997/bizpay/order?role_id=996000001&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-06-21 04:57:38: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-06-21 04:57:49: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-06-21 12:57:52: {"appId":"wx85e8e6fce747468a","nonceStr":"SV37wCXpOb6ndHuu","timestamp":1592715472,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=202006211257321005&mdata=6&s=95af89b367b6515ac15f37afb6b5150a&code=021OFvhR1Rvvr51w38jR1xNKhR1OFvhH&state=123","signature":"fa93638d103890aca75084dabb709fc01b8abdfe","rawString":"jsapi_ticket=&noncestr=SV37wCXpOb6ndHuu&timestamp=1592715472&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=202006211257321005&mdata=6&s=95af89b367b6515ac15f37afb6b5150a&code=021OFvhR1Rvvr51w38jR1xNKhR1OFvhH&state=123"}
+2020-06-21 12:57:52: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"OKdDm15GmYxcrJ5h","prepay_id":"wx2112575257335055176cba8e1096008300","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"F09F6424B9A5BAB0EBA552BA303CE6114B48A1A7ACC914EFEE1F0F0FA7022BA7","trade_type":"JSAPI"}
+2020-06-21 12:57:52: {"appId":"wxc9feabf90096782c","nonceStr":"j9bxd1ao6vzh49haazddd0a28ocjtfg5","package":"prepay_id=wx2112575257335055176cba8e1096008300","signType":"HMAC-SHA256","timeStamp":"1592715472","paySign":"40AB31B04B2BAB3733F4EBE40A52597E8961D218819BF7C6851935ABD4CC8B31"}
+2020-06-22 17:26:58: sync notify url connect db success 
+2020-06-22 17:26:58: ""
+2020-06-22 17:27:55: sync notify url connect db success 
+2020-06-22 17:27:55: ""
+2020-06-23 18:06:41: sync notify url connect db success 
+2020-06-23 18:06:41: ""
+2020-06-23 18:23:29: sync notify url connect db success 
+2020-06-23 18:23:29: ""
+2020-06-24 11:03:23: sync notify url connect db success 
+2020-06-24 11:03:23: ""
+2020-06-24 12:31:23: sync notify url connect db success 
+2020-06-24 12:31:23: ""
+2020-06-24 12:39:20: sync notify url connect db success 
+2020-06-24 12:39:20: ""
+2020-06-24 12:57:38: sync notify url connect db success 
+2020-06-24 12:57:38: ""
+2020-06-24 12:58:11: sync notify url connect db success 
+2020-06-24 12:58:11: ""
+2020-06-24 12:58:37: sync notify url connect db success 
+2020-06-24 12:58:37: ""
+2020-06-24 13:02:14: sync notify url connect db success 
+2020-06-24 13:02:14: ""
+2020-06-24 13:03:00: sync notify url connect db success 
+2020-06-24 13:03:00: ""
+2020-06-24 13:13:07: sync notify url connect db success 
+2020-06-24 13:13:07: ""
+2020-06-24 14:37:15: sync notify url connect db success 
+2020-06-24 14:37:15: ""
+2020-06-24 15:21:38: sync notify url connect db success 
+2020-06-24 15:21:38: ""
+2020-06-24 15:25:11: sync notify url connect db success 
+2020-06-24 15:25:11: ""
+2020-06-24 15:35:53: sync notify url connect db success 
+2020-06-24 15:35:53: ""
+2020-06-24 15:46:16: sync notify url connect db success 
+2020-06-24 15:46:16: ""
+2020-06-24 16:32:59: sync notify url connect db success 
+2020-06-24 16:32:59: ""
+2020-06-24 16:34:30: sync notify url connect db success 
+2020-06-24 16:34:30: ""
+2020-06-24 17:21:49: sync notify url connect db success 
+2020-06-24 17:21:49: ""
+2020-06-24 19:10:44: sync notify url connect db success 
+2020-06-24 19:10:44: ""
+2020-06-24 20:18:50: sync notify url connect db success 
+2020-06-24 20:18:50: ""
+2020-06-24 20:22:34: sync notify url connect db success 
+2020-06-24 20:22:34: ""
+2020-06-29 16:38:40: sync notify url connect db success 
+2020-06-29 16:38:40: ""
+2020-06-29 21:17:40: sync notify url connect db success 
+2020-06-29 21:17:40: ""
+2020-06-29 21:18:08: sync notify url connect db success 
+2020-06-29 21:18:08: ""
+2020-06-30 10:23:19: sync notify url connect db success 
+2020-06-30 10:23:19: ""
+2020-06-30 11:41:39: sync notify url connect db success 
+2020-06-30 11:41:39: ""
+2020-06-30 11:46:29: sync notify url connect db success 
+2020-06-30 11:46:29: ""
+2020-06-30 11:58:36: sync notify url connect db success 
+2020-06-30 11:58:36: ""
+2020-06-30 12:16:05: sync notify url connect db success 
+2020-06-30 12:16:05: ""
+2020-06-30 12:18:18: sync notify url connect db success 
+2020-06-30 12:18:18: ""
+2020-06-30 15:47:18: sync notify url connect db success 
+2020-06-30 15:47:18: ""
+2020-06-30 15:51:35: sync notify url connect db success 
+2020-06-30 15:51:35: ""
+2020-06-30 16:01:55: sync notify url connect db success 
+2020-06-30 16:01:55: ""
+2020-06-30 16:04:40: sync notify url connect db success 
+2020-06-30 16:04:40: ""
+2020-06-30 17:08:22: sync notify url connect db success 
+2020-06-30 17:08:22: ""
+2020-06-30 17:31:24: sync notify url connect db success 
+2020-06-30 17:31:24: ""
+2020-06-30 17:39:08: sync notify url connect db success 
+2020-06-30 17:39:08: ""
+2020-06-30 17:41:45: sync notify url connect db success 
+2020-06-30 17:41:45: ""
+2020-06-30 19:03:39: sync notify url connect db success 
+2020-06-30 19:03:39: ""
+2020-06-30 19:15:05: sync notify url connect db success 
+2020-06-30 19:15:05: ""
+2020-06-30 19:26:49: sync notify url connect db success 
+2020-06-30 19:26:49: ""
+2020-07-01 11:55:00: sync notify url connect db success 
+2020-07-01 11:55:00: ""
+2020-07-01 20:14:59: sync notify url connect db success 
+2020-07-01 20:14:59: ""
+2020-07-01 20:17:13: sync notify url connect db success 
+2020-07-01 20:17:13: ""
+2020-07-01 20:19:45: sync notify url connect db success 
+2020-07-01 20:19:45: ""
+2020-07-01 20:22:35: sync notify url connect db success 
+2020-07-01 20:22:35: ""
+2020-07-01 20:24:38: sync notify url connect db success 
+2020-07-01 20:24:38: ""
+2020-07-01 20:33:09: sync notify url connect db success 
+2020-07-01 20:33:09: ""
+2020-07-01 20:35:49: sync notify url connect db success 
+2020-07-01 20:35:49: ""
+2020-07-02 10:39:58: sync notify url connect db success 
+2020-07-02 10:39:58: ""
+2020-07-02 17:10:52: sync notify url connect db success 
+2020-07-02 17:10:52: ""
+2020-07-02 17:41:26: sync notify url connect db success 
+2020-07-02 17:41:26: ""
+2020-07-02 17:43:11: sync notify url connect db success 
+2020-07-02 17:43:11: ""
+2020-07-02 17:44:37: sync notify url connect db success 
+2020-07-02 17:44:37: ""
+2020-07-02 18:12:39: request {"role_id":"996000016","server_id":"996","type":"5","type_key":"27","money":"30"}
+2020-07-02 18:12:39: url=http://s997.charge.sxwj.stonegame.club:20997/bizpay/order?role_id=996000016&type=5&type_key=27&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-07-02 10:12:46: openid = oQcUr5DEftggseQkMDV1ew7ZbYZk
+2020-07-02 10:12:47: openid = oQcUr5DEftggseQkMDV1ew7ZbYZk
+2020-07-02 18:12:50: {"appId":"wx85e8e6fce747468a","nonceStr":"fQoPNZgr7KnhpyXk","timestamp":1593684770,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=202007021812391041&mdata=30&s=b14119fe6498cbc080c2cd4f4009ca12&code=021LBwTI1RFpX00IMySI1VmyTI1LBwTa&state=123","signature":"fb63d292fb7943283645069be8b2e95f1595612e","rawString":"jsapi_ticket=&noncestr=fQoPNZgr7KnhpyXk&timestamp=1593684770&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=202007021812391041&mdata=30&s=b14119fe6498cbc080c2cd4f4009ca12&code=021LBwTI1RFpX00IMySI1VmyTI1LBwTa&state=123"}
+2020-07-02 18:12:51: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"QhUlu1VJzYxUWw72","prepay_id":"wx02181251421188314f6fdf5b1128638100","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"D6CB3CEDA8C6A420F83CF2B68E709B192D682FD9E842BB0258CEA3DCBFBE6DE6","trade_type":"JSAPI"}
+2020-07-02 18:12:51: {"appId":"wxc9feabf90096782c","nonceStr":"sapoczp3sz5t3evhmo3oir0f1lmriais","package":"prepay_id=wx02181251421188314f6fdf5b1128638100","signType":"HMAC-SHA256","timeStamp":"1593684771","paySign":"A7A3CC7CA45AD91E1784810683ACC99113BEA3E51E3542B50CA85EAACC7166A3"}
+2020-07-02 20:27:01: sync notify url connect db success 
+2020-07-02 20:27:01: ""
+2020-07-02 20:33:26: sync notify url connect db success 
+2020-07-02 20:33:26: ""
+2020-07-02 20:55:28: sync notify url connect db success 
+2020-07-02 20:55:28: ""
+2020-07-03 10:30:21: sync notify url connect db success 
+2020-07-03 10:30:21: ""
+2020-07-03 10:36:53: sync notify url connect db success 
+2020-07-03 10:36:53: ""
+2020-07-03 10:47:00: sync notify url connect db success 
+2020-07-03 10:47:00: ""
+2020-07-03 10:55:21: sync notify url connect db success 
+2020-07-03 10:55:21: ""
+2020-07-03 11:12:14: sync notify url connect db success 
+2020-07-03 11:12:14: ""
+2020-07-03 11:27:56: sync notify url connect db success 
+2020-07-03 11:27:56: ""
+2020-07-03 11:55:43: sync notify url connect db success 
+2020-07-03 11:55:43: ""
+2020-07-03 12:20:38: sync notify url connect db success 
+2020-07-03 12:20:38: ""
+2020-07-03 15:11:10: sync notify url connect db success 
+2020-07-03 15:11:10: ""
+2020-07-03 15:17:05: sync notify url connect db success 
+2020-07-03 15:17:05: ""
+2020-07-03 15:24:50: sync notify url connect db success 
+2020-07-03 15:24:50: ""
+2020-07-03 15:52:55: sync notify url connect db success 
+2020-07-03 15:52:55: ""
+2020-07-03 16:02:14: sync notify url connect db success 
+2020-07-03 16:02:14: ""
+2020-07-03 16:04:58: sync notify url connect db success 
+2020-07-03 16:04:58: ""
+2020-07-03 16:05:54: sync notify url connect db success 
+2020-07-03 16:05:54: ""
+2020-07-03 17:37:34: sync notify url connect db success 
+2020-07-03 17:37:34: ""
+2020-07-03 19:39:48: sync notify url connect db success 
+2020-07-03 19:39:48: ""
+2020-07-04 10:21:35: sync notify url connect db success 
+2020-07-04 10:21:35: ""
+2020-07-04 10:22:20: sync notify url connect db success 
+2020-07-04 10:22:20: ""
+2020-07-04 10:27:13: sync notify url connect db success 
+2020-07-04 10:27:13: ""
+2020-07-04 11:20:18: sync notify url connect db success 
+2020-07-04 11:20:18: ""
+2020-07-04 11:58:28: sync notify url connect db success 
+2020-07-04 11:58:28: ""
+2020-07-04 12:03:50: sync notify url connect db success 
+2020-07-04 12:03:50: ""
+2020-07-04 15:46:24: sync notify url connect db success 
+2020-07-04 15:46:24: ""
+2020-07-04 15:59:48: sync notify url connect db success 
+2020-07-04 15:59:48: ""
+2020-07-07 09:55:42: sync notify url connect db success 
+2020-07-07 09:55:42: ""
+2020-07-07 15:02:03: sync notify url connect db success 
+2020-07-07 15:02:03: ""
+2020-07-07 15:02:19: sync notify url connect db success 
+2020-07-07 15:02:19: ""
+2020-07-07 15:51:43: sync notify url connect db success 
+2020-07-07 15:51:43: ""
+2020-07-09 20:55:36: sync notify url connect db success 
+2020-07-09 20:55:36: ""
+2020-07-10 16:28:21: sync notify url connect db success 
+2020-07-10 16:28:21: ""
+2020-07-10 16:30:48: sync notify url connect db success 
+2020-07-10 16:30:48: ""
+2020-07-13 17:49:17: sync notify url connect db success 
+2020-07-13 17:49:17: ""
+2020-07-13 17:49:51: sync notify url connect db success 
+2020-07-13 17:49:51: ""
+2020-07-14 15:45:52: sync notify url connect db success 
+2020-07-14 15:45:52: ""
+2020-07-14 15:51:03: sync notify url connect db success 
+2020-07-14 15:51:03: ""
+2020-07-14 15:51:34: sync notify url connect db success 
+2020-07-14 15:51:34: ""
+2020-07-14 16:37:07: sync notify url connect db success 
+2020-07-14 16:37:07: ""
+2020-07-14 16:40:17: sync notify url connect db success 
+2020-07-14 16:40:17: ""
+2020-07-16 18:01:30: sync notify url connect db success 
+2020-07-16 18:01:30: ""
+2020-07-16 18:10:35: sync notify url connect db success 
+2020-07-16 18:10:35: ""
+2020-07-16 19:10:17: sync notify url connect db success 
+2020-07-16 19:10:17: ""
+2020-07-16 19:45:38: sync notify url connect db success 
+2020-07-16 19:45:38: ""
+2020-07-16 20:19:11: sync notify url connect db success 
+2020-07-16 20:19:11: ""
+2020-07-16 20:30:47: sync notify url connect db success 
+2020-07-16 20:30:47: ""
+2020-07-16 20:40:27: sync notify url connect db success 
+2020-07-16 20:40:27: ""
+2020-07-16 20:50:03: sync notify url connect db success 
+2020-07-16 20:50:03: ""
+2020-07-16 20:53:26: sync notify url connect db success 
+2020-07-16 20:53:26: ""
+2020-07-16 23:20:02: sync notify url connect db success 
+2020-07-16 23:20:02: ""
+2020-07-17 09:56:52: sync notify url connect db success 
+2020-07-17 09:56:52: ""
+2020-07-17 10:51:43: sync notify url connect db success 
+2020-07-17 10:51:43: ""
+2020-07-17 14:42:26: sync notify url connect db success 
+2020-07-17 14:42:26: ""
+2020-07-17 17:11:03: sync notify url connect db success 
+2020-07-17 17:11:03: ""
+2020-07-18 09:50:27: sync notify url connect db success 
+2020-07-18 09:50:27: ""
+2020-07-18 18:24:47: sync notify url connect db success 
+2020-07-18 18:24:47: ""
+2020-07-18 19:23:34: sync notify url connect db success 
+2020-07-18 19:23:34: ""
+2020-07-18 19:24:06: sync notify url connect db success 
+2020-07-18 19:24:06: ""
+2020-07-20 13:08:30: request []
+2020-07-20 13:08:30: url=order?role_id=&type=&type_key=&money=&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-07-20 16:49:53: sync notify url connect db success 
+2020-07-20 16:49:53: ""
+2020-07-20 16:50:29: sync notify url connect db success 
+2020-07-20 16:50:29: ""
+2020-07-20 17:11:12: sync notify url connect db success 
+2020-07-20 17:11:12: ""
+2020-07-20 17:18:15: sync notify url connect db success 
+2020-07-20 17:18:15: ""
+2020-07-20 17:18:43: sync notify url connect db success 
+2020-07-20 17:18:43: ""
+2020-07-20 17:20:05: sync notify url connect db success 
+2020-07-20 17:20:05: ""
+2020-07-23 17:30:32: sync notify url connect db success 
+2020-07-23 17:30:32: ""
+2020-07-23 17:44:04: sync notify url connect db success 
+2020-07-23 17:44:04: ""
+2020-07-28 12:20:57: sync notify url connect db success 
+2020-07-28 12:20:57: ""
+2020-07-28 20:48:25: sync notify url connect db success 
+2020-07-28 20:48:25: ""
+2020-07-29 18:25:42: sync notify url connect db success 
+2020-07-29 18:25:42: ""
+2020-08-01 10:16:34: sync notify url connect db success 
+2020-08-01 10:16:34: ""
+2020-08-01 10:26:56: sync notify url connect db success 
+2020-08-01 10:26:56: ""
+2020-08-05 18:17:45: sync notify url connect db success 
+2020-08-05 18:17:45: ""
+2020-08-06 10:52:30: sync notify url connect db success 
+2020-08-06 10:52:30: ""
+2020-08-06 10:53:39: sync notify url connect db success 
+2020-08-06 10:53:39: ""
+2020-08-06 11:03:12: sync notify url connect db success 
+2020-08-06 11:03:12: ""
+2020-08-06 11:03:30: sync notify url connect db success 
+2020-08-06 11:03:30: ""
+2020-08-06 11:52:04: sync notify url connect db success 
+2020-08-06 11:52:04: ""
+2020-08-06 11:52:45: sync notify url connect db success 
+2020-08-06 11:52:45: ""
+2020-08-06 11:59:27: sync notify url connect db success 
+2020-08-06 11:59:27: ""
+2020-08-06 12:01:31: sync notify url connect db success 
+2020-08-06 12:01:31: ""
+2020-08-06 19:34:45: sync notify url connect db success 
+2020-08-06 19:34:45: ""
+2020-08-06 19:35:27: sync notify url connect db success 
+2020-08-06 19:35:27: ""
+2020-08-10 12:14:48: sync notify url connect db success 
+2020-08-10 12:14:48: ""
+2020-08-10 14:47:59: sync notify url connect db success 
+2020-08-10 14:47:59: ""
+2020-08-10 15:05:46: sync notify url connect db success 
+2020-08-10 15:05:46: ""
+2020-08-10 15:10:38: sync notify url connect db success 
+2020-08-10 15:10:38: ""
+2020-08-11 17:10:03: sync notify url connect db success 
+2020-08-11 17:10:03: ""
+2020-08-12 10:13:37: sync notify url connect db success 
+2020-08-12 10:13:37: ""
+2020-08-12 19:30:33: sync notify url connect db success 
+2020-08-12 19:30:33: ""
+2020-08-14 18:35:35: sync notify url connect db success 
+2020-08-14 18:35:35: ""
+2020-08-19 10:34:21: sync notify url connect db success 
+2020-08-19 10:34:21: ""
+2020-08-20 11:50:57: sync notify url connect db success 
+2020-08-20 11:50:57: ""
+2020-08-20 15:44:41: sync notify url connect db success 
+2020-08-20 15:44:41: ""
+2020-08-20 17:59:51: sync notify url connect db success 
+2020-08-20 17:59:51: ""
+2020-08-20 18:24:20: sync notify url connect db success 
+2020-08-20 18:24:20: ""
+2020-08-21 18:31:31: sync notify url connect db success 
+2020-08-21 18:31:31: ""
+2020-08-21 18:47:45: sync notify url connect db success 
+2020-08-21 18:47:45: ""
+2020-08-21 18:51:21: sync notify url connect db success 
+2020-08-21 18:51:21: ""
+2020-08-24 10:08:53: request {"role_id":"1032000003","server_id":"1032","type":"0","type_key":"2","money":"6"}
+2020-08-24 10:08:53: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000003&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-08-24 02:09:00: openid = oQcUr5OYjlRbEoDaYKvzTajd96ag
+2020-08-24 02:09:05: openid = oQcUr5OYjlRbEoDaYKvzTajd96ag
+2020-08-24 10:20:56: sync notify url connect db success 
+2020-08-24 10:20:56: ""
+2020-08-24 11:11:47: request {"role_id":"1032000001","server_id":"1032","type":"0","type_key":"2","money":"6"}
+2020-08-24 11:11:47: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000001&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-08-24 03:11:51: openid = oQcUr5DEftggseQkMDV1ew7ZbYZk
+2020-08-24 03:11:54: openid = oQcUr5DEftggseQkMDV1ew7ZbYZk
+2020-08-24 11:11:57: {"appId":"wx85e8e6fce747468a","nonceStr":"QMBXeKTwnyktvGz9","timestamp":1598238717,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202008241111471001&mdata=6&s=f2999cb8f9dbe27103d00ef4401c05b9&code=041ovzFa1a6Vuz05isIa1GrCKo2ovzFg&state=123","signature":"99129f20c3526098fb32bb23fb368bfa35fd5da2","rawString":"jsapi_ticket=&noncestr=QMBXeKTwnyktvGz9&timestamp=1598238717&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202008241111471001&mdata=6&s=f2999cb8f9dbe27103d00ef4401c05b9&code=041ovzFa1a6Vuz05isIa1GrCKo2ovzFg&state=123"}
+2020-08-24 11:11:57: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"qNzB9ZgNvXTh8VMZ","prepay_id":"wx24111157657153a58da02652d83fd90000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"34F0F7DAAD0E1E93074555E382877DA81830F3AC0AA71024A32309FBABD5950A","trade_type":"JSAPI"}
+2020-08-24 11:11:57: {"appId":"wxc9feabf90096782c","nonceStr":"m88tdcb1jh3xnvw367x8f7e8qdf15muw","package":"prepay_id=wx24111157657153a58da02652d83fd90000","signType":"HMAC-SHA256","timeStamp":"1598238717","paySign":"FA7EF541ED37AE4BF3D7E7C7FC990A456503054671C29E6B02266B3C88108208"}
+2020-08-25 16:35:31: sync notify url connect db success 
+2020-08-25 16:35:31: ""
+2020-08-25 18:29:29: sync notify url connect db success 
+2020-08-25 18:29:29: ""
+2020-08-28 10:35:58: sync notify url connect db success 
+2020-08-28 10:35:58: ""
+2020-08-28 11:05:52: sync notify url connect db success 
+2020-08-28 11:05:52: ""
+2020-08-28 11:06:12: sync notify url connect db success 
+2020-08-28 11:06:12: ""
+2020-08-28 11:08:47: sync notify url connect db success 
+2020-08-28 11:08:47: ""
+2020-08-28 12:26:30: sync notify url connect db success 
+2020-08-28 12:26:30: ""
+2020-09-01 10:25:31: sync notify url connect db success 
+2020-09-01 10:25:31: ""
+2020-09-02 19:52:56: sync notify url connect db success 
+2020-09-02 19:52:56: ""
+2020-09-02 19:54:48: sync notify url connect db success 
+2020-09-02 19:54:48: ""
+2020-09-06 13:21:43: sync notify url connect db success 
+2020-09-06 13:21:43: ""
+2020-09-06 13:23:46: sync notify url connect db success 
+2020-09-06 13:23:46: ""
+2020-09-06 13:43:29: sync notify url connect db success 
+2020-09-06 13:43:29: ""
+2020-09-06 13:45:52: sync notify url connect db success 
+2020-09-06 13:45:52: ""
+2020-09-06 13:49:14: sync notify url connect db success 
+2020-09-06 13:49:14: ""
+2020-09-06 14:02:10: sync notify url connect db success 
+2020-09-06 14:02:10: ""
+2020-09-06 14:06:47: sync notify url connect db success 
+2020-09-06 14:06:47: ""
+2020-09-06 14:10:57: sync notify url connect db success 
+2020-09-06 14:10:57: ""
+2020-09-06 14:13:11: sync notify url connect db success 
+2020-09-06 14:13:11: ""
+2020-09-06 14:24:56: sync notify url connect db success 
+2020-09-06 14:24:56: ""
+2020-09-09 11:08:40: sync notify url connect db success 
+2020-09-09 11:08:40: ""
+2020-09-09 12:42:46: sync notify url connect db success 
+2020-09-09 12:42:46: ""
+2020-09-09 19:10:24: sync notify url connect db success 
+2020-09-09 19:10:24: ""
+2020-09-09 19:45:14: sync notify url connect db success 
+2020-09-09 19:45:14: ""
+2020-09-09 19:53:18: sync notify url connect db success 
+2020-09-09 19:53:18: ""
+2020-09-09 22:37:07: sync notify url connect db success 
+2020-09-09 22:37:07: ""
+2020-09-09 22:49:33: request {"role_id":"1032000005","server_id":"1032","type":"0","type_key":"9","money":"648"}
+2020-09-09 22:49:33: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000005&type=0&type_key=9&money=648&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-09 14:49:39: openid = oQcUr5KO0ALa1DiRwxUnhL3cooUs
+2020-09-09 14:49:42: openid = oQcUr5KO0ALa1DiRwxUnhL3cooUs
+2020-09-09 22:49:47: request {"role_id":"1032000005","server_id":"1032","type":"0","type_key":"9","money":"648"}
+2020-09-09 22:49:47: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000005&type=0&type_key=9&money=648&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-09 14:49:49: openid = oQcUr5KO0ALa1DiRwxUnhL3cooUs
+2020-09-09 14:49:52: openid = oQcUr5KO0ALa1DiRwxUnhL3cooUs
+2020-09-10 10:06:43: sync notify url connect db success 
+2020-09-10 10:06:43: ""
+2020-09-10 10:11:57: request {"role_id":"1032000002","server_id":"1032","type":"0","type_key":"4","money":"68"}
+2020-09-10 10:11:57: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000002&type=0&type_key=4&money=68&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-10 02:12:02: openid = oQcUr5PSZLwhZEavjsaEcAXMMh_4
+2020-09-10 02:12:03: openid = oQcUr5PSZLwhZEavjsaEcAXMMh_4
+2020-09-10 10:12:05: {"appId":"wx85e8e6fce747468a","nonceStr":"DMPn83dTeyiowaqK","timestamp":1599703925,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=202009101011571001&mdata=68&s=8d3a01d1e11b1bec2662d4dd4bec15d1&code=0017WC000dVNgK1d95400JIDUu37WC0R&state=123","signature":"3a43c65eaa6a2fd2f2ddd541349f67c78e974f06","rawString":"jsapi_ticket=&noncestr=DMPn83dTeyiowaqK&timestamp=1599703925&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=202009101011571001&mdata=68&s=8d3a01d1e11b1bec2662d4dd4bec15d1&code=0017WC000dVNgK1d95400JIDUu37WC0R&state=123"}
+2020-09-10 10:12:05: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"xjXgbkJcRzoAdf6v","prepay_id":"wx10101205612027e8fc93fa963ebf460000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"1859AB5604945BE949A72234A60024C078180CEF131872F91AA92174DF1A2903","trade_type":"JSAPI"}
+2020-09-10 10:12:05: {"appId":"wxc9feabf90096782c","nonceStr":"q8l01ghq2fglkcrdvk10evzjbi67h5pp","package":"prepay_id=wx10101205612027e8fc93fa963ebf460000","signType":"HMAC-SHA256","timeStamp":"1599703925","paySign":"14A3BF906E7A1E0B841C55A09264D9FCC2C875EDADEE02F31140A0AEC5317C67"}
+2020-09-11 12:35:08: request {"role_id":"1032000014","server_id":"1032","type":"0","type_key":"2","money":"6"}
+2020-09-11 12:35:08: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000014&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-11 04:35:16: openid = oQcUr5Oog9qND0rMqmwn4u5OjnP0
+2020-09-11 04:35:16: openid = oQcUr5Oog9qND0rMqmwn4u5OjnP0
+2020-09-11 12:38:49: request {"role_id":"1032000014","server_id":"1032","type":"0","type_key":"3","money":"30"}
+2020-09-11 12:38:49: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000014&type=0&type_key=3&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-11 15:11:32: request {"role_id":"1032000010","server_id":"1032","type":"0","type_key":"3","money":"30"}
+2020-09-11 15:11:32: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000010&type=0&type_key=3&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 14:54:00: sync notify url connect db success 
+2020-09-12 14:54:00: ""
+2020-09-12 16:49:05: request {"role_id":"1032000014","server_id":"1032","type":"7","type_key":"201","money":"1"}
+2020-09-12 16:49:05: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000014&type=7&type_key=201&money=1&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 08:49:11: openid = oQcUr5Oog9qND0rMqmwn4u5OjnP0
+2020-09-12 08:49:11: openid = oQcUr5Oog9qND0rMqmwn4u5OjnP0
+2020-09-12 16:49:14: request {"role_id":"1032000014","server_id":"1032","type":"7","type_key":"201","money":"1"}
+2020-09-12 16:49:14: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000014&type=7&type_key=201&money=1&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 08:49:20: openid = oQcUr5Oog9qND0rMqmwn4u5OjnP0
+2020-09-12 08:49:20: openid = oQcUr5Oog9qND0rMqmwn4u5OjnP0
+2020-09-12 16:49:25: {"appId":"wx85e8e6fce747468a","nonceStr":"DVyav6JqjnPN5uos","timestamp":1599900565,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009121649141011&mdata=1&s=f0fc24adf99d676d81b2ef6b7364e757&code=001O7h000mdihK1ByX200orBJw2O7h0T&state=123","signature":"0e27f90b765cfb9640f4a588aaa70141ac4f9c2b","rawString":"jsapi_ticket=&noncestr=DVyav6JqjnPN5uos&timestamp=1599900565&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009121649141011&mdata=1&s=f0fc24adf99d676d81b2ef6b7364e757&code=001O7h000mdihK1ByX200orBJw2O7h0T&state=123"}
+2020-09-12 16:49:25: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"H2n7TQljmZIqNl1f","prepay_id":"wx12164925715685f51842ca04409e590000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"1132E52706A61343E2BA18445024E15C2A1D174884C95C34A9828850B2E93614","trade_type":"JSAPI"}
+2020-09-12 16:49:25: {"appId":"wxc9feabf90096782c","nonceStr":"a2dm01tlhqsdzq2zftaw1ya50cv0ucno","package":"prepay_id=wx12164925715685f51842ca04409e590000","signType":"HMAC-SHA256","timeStamp":"1599900565","paySign":"5DDAF7DD8E38514DA0B93054851229DBD2D9AED071B1B9E4089813540501DAB4"}
+2020-09-12 16:49:29: begin notify
+2020-09-12 16:49:29: call back:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"OTHERS","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1537253871","nonce_str":"azoj6acch9dvwavt6gio236572gvd4bm","openid":"oY3AKw4YYxtY0W0Eu0gYg4Ndn5w0","out_trade_no":"wx202009121649141011","result_code":"SUCCESS","return_code":"SUCCESS","sign":"41E075FB625B5C5660E42F3D70E3926E2E9FDC1841E1CFD7FD314888BCD3D9A6","time_end":"20200912164929","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000755202009120528604804"}
+2020-09-12 16:49:29: pay notify url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/pay_notify?out_order_no=wx202009121649141011&order_no=4200000755202009120528604804&pay_time=20200912164929&amount=1&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 16:49:30: query:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"OTHERS","cash_fee":"100","cash_fee_type":"CNY","fee_type":"CNY","is_subscribe":"N","mch_id":"1537253871","nonce_str":"SLv6vwbcH4QosbdZ","openid":"oY3AKw4YYxtY0W0Eu0gYg4Ndn5w0","out_trade_no":"wx202009121649141011","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"4047D9317C145FD676A3D16EC41D8A485DEE53C4BDD87BBB308A542266B452DC","time_end":"20200912164929","total_fee":"100","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000755202009120528604804"}
+2020-09-12 16:49:30: call back， return xml:<xml><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg></xml>
+2020-09-12 16:51:33: request {"role_id":"1032000014","server_id":"1032","type":"7","type_key":"204","money":"60"}
+2020-09-12 16:51:33: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000014&type=7&type_key=204&money=60&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 08:51:35: openid = oQcUr5Oog9qND0rMqmwn4u5OjnP0
+2020-09-12 08:51:36: openid = oQcUr5Oog9qND0rMqmwn4u5OjnP0
+2020-09-12 16:51:38: {"appId":"wx85e8e6fce747468a","nonceStr":"qkLMCOlGsNtHmMWt","timestamp":1599900698,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009121651331012&mdata=60&s=ba35087184f3f22eeb29ab6b0ca555fb&code=001FvjFa1iaIBz0sntIa1VwCLt3FvjFc&state=123","signature":"fc123245285b0f6cf6b104a70a7de129305248a4","rawString":"jsapi_ticket=&noncestr=qkLMCOlGsNtHmMWt&timestamp=1599900698&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009121651331012&mdata=60&s=ba35087184f3f22eeb29ab6b0ca555fb&code=001FvjFa1iaIBz0sntIa1VwCLt3FvjFc&state=123"}
+2020-09-12 16:51:38: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"8P3mhbMYD0a3lt1z","prepay_id":"wx121651385151421c8a9c190638b33d0000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"1DDB5036FF2CB1E685A8B123C0BDCA0FAA48D46FE801882F24357653CCD3C754","trade_type":"JSAPI"}
+2020-09-12 16:51:38: {"appId":"wxc9feabf90096782c","nonceStr":"v76i6ecbf7vpms4v3aane7cleoz14j02","package":"prepay_id=wx121651385151421c8a9c190638b33d0000","signType":"HMAC-SHA256","timeStamp":"1599900698","paySign":"AD9DA84ED5A6077A430776564EA066EBD81AAD5F19365DA7C1DEFB48D1FFAA51"}
+2020-09-12 17:12:35: request {"role_id":"1032000019","server_id":"1032","type":"0","type_key":"2","money":"6"}
+2020-09-12 17:12:35: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000019&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 09:12:38: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-12 09:12:43: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-12 17:35:28: request {"role_id":"1032000019","server_id":"1032","type":"0","type_key":"2","money":"6"}
+2020-09-12 17:35:28: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000019&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 09:35:31: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-12 09:35:41: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-12 17:37:53: request {"role_id":"1032000019","server_id":"1032","type":"0","type_key":"7","money":"198"}
+2020-09-12 17:37:53: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000019&type=0&type_key=7&money=198&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 09:37:56: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-12 09:38:00: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-12 18:49:49: request {"role_id":"1032000019","server_id":"1032","type":"0","type_key":"2","money":"6"}
+2020-09-12 18:49:49: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000019&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 10:49:53: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-12 18:49:58: {"appId":"wx85e8e6fce747468a","nonceStr":"nebJrlEZMUYvoAku","timestamp":1599907798,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009121849491024&mdata=6&s=1bdb17d362247cefec58f795f8540f0f&code=041y7ill2HXfC54GwLkl2Y9Yv23y7ilg&state=123","signature":"e6d018721ce77a3ec93728c47c9c44c12e6cfe14","rawString":"jsapi_ticket=&noncestr=nebJrlEZMUYvoAku&timestamp=1599907798&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009121849491024&mdata=6&s=1bdb17d362247cefec58f795f8540f0f&code=041y7ill2HXfC54GwLkl2Y9Yv23y7ilg&state=123"}
+2020-09-12 18:49:58: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"xi6KQQZObHrJZpJt","prepay_id":"wx121849585652077191283c6d5ab8d20000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"C5EF75CA5160C7AC1EF932D28A403BDAB590B5FBD17E327C5A49ABDE690A5CD5","trade_type":"JSAPI"}
+2020-09-12 18:49:58: {"appId":"wxc9feabf90096782c","nonceStr":"puwuo656plrmw3lgigx6wp14h5f956vt","package":"prepay_id=wx121849585652077191283c6d5ab8d20000","signType":"HMAC-SHA256","timeStamp":"1599907798","paySign":"3DD1BB0D20A2F4251913D7E42FAA077A4C17A7ADE8C42DF34AA90A968D3A326B"}
+2020-09-12 19:48:51: sync notify url connect db success 
+2020-09-12 19:48:51: ""
+2020-09-12 20:45:43: sync notify url connect db success 
+2020-09-12 20:45:43: ""
+2020-09-12 21:27:22: request {"role_id":"1032000019","server_id":"1032","type":"0","type_key":"2","money":"6"}
+2020-09-12 21:27:22: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000019&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 13:27:27: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-12 21:27:31: {"appId":"wx85e8e6fce747468a","nonceStr":"IcKyiHDBCDCVfFBF","timestamp":1599917251,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009122127221005&mdata=6&s=b3016dd4f2691a244f259d8885c13a36&code=021CnRFa1G4TBz0VczJa1YvVc83CnRF0&state=123","signature":"024365061b52917bfb33adf790cc922f796958ca","rawString":"jsapi_ticket=&noncestr=IcKyiHDBCDCVfFBF&timestamp=1599917251&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009122127221005&mdata=6&s=b3016dd4f2691a244f259d8885c13a36&code=021CnRFa1G4TBz0VczJa1YvVc83CnRF0&state=123"}
+2020-09-12 21:27:31: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"iWskYJhWfi3xPGlg","prepay_id":"wx12212731785714f7b7ca40dacfd6590000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"B114060B2EAC99477A3F5FAD255FD14B0C15A339A7D4B08CF7D18808DC520B6B","trade_type":"JSAPI"}
+2020-09-12 21:27:31: {"appId":"wxc9feabf90096782c","nonceStr":"v64ge52caw65nsamhh2uurtn75qrs0kc","package":"prepay_id=wx12212731785714f7b7ca40dacfd6590000","signType":"HMAC-SHA256","timeStamp":"1599917251","paySign":"0B0CF711ACBAB3DA3A3FA966B152435037BED4005638BEAECD22386BDB3D5791"}
+2020-09-12 21:27:36: begin notify
+2020-09-12 21:27:36: call back:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"SPDB_CREDIT","cash_fee":"600","fee_type":"CNY","is_subscribe":"Y","mch_id":"1537253871","nonce_str":"79ypc806gboupvnnmdk6kll2gwo0k6lg","openid":"oY3AKw3nD5XKfSr9I6tFTe_dFWXM","out_trade_no":"wx202009122127221005","result_code":"SUCCESS","return_code":"SUCCESS","sign":"88A0E206C67F7657DED6855E1370C32264D7B1DEC6C31BE841942115C8310510","time_end":"20200912212735","total_fee":"600","trade_type":"JSAPI","transaction_id":"4200000765202009129551599410"}
+2020-09-12 21:27:36: pay notify url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/pay_notify?out_order_no=wx202009122127221005&order_no=4200000765202009129551599410&pay_time=20200912212735&amount=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 21:27:37: query:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"SPDB_CREDIT","cash_fee":"600","cash_fee_type":"CNY","fee_type":"CNY","is_subscribe":"Y","mch_id":"1537253871","nonce_str":"wQcov3LEYEb6iaSH","openid":"oY3AKw3nD5XKfSr9I6tFTe_dFWXM","out_trade_no":"wx202009122127221005","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"5FEF2AE7A09EF37A6C3E522C93764955A3FE859330843641A8498A27922795B2","time_end":"20200912212735","total_fee":"600","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000765202009129551599410"}
+2020-09-12 21:27:37: call back， return xml:<xml><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg></xml>
+2020-09-12 21:29:11: request {"role_id":"1032000025","server_id":"1032","type":"0","type_key":"5","money":"98"}
+2020-09-12 21:29:11: request {"role_id":"1032000025","server_id":"1032","type":"0","type_key":"2","money":"6"}
+2020-09-12 21:29:11: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000025&type=0&type_key=5&money=98&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 21:29:11: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000025&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 21:29:17: request {"role_id":"1032000025","server_id":"1032","type":"0","type_key":"2","money":"6"}
+2020-09-12 21:29:17: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000025&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 13:29:19: openid = oQcUr5JbhMHIhJQgeR82NRov4JlY
+2020-09-12 13:29:22: openid = oQcUr5JbhMHIhJQgeR82NRov4JlY
+2020-09-12 21:29:25: {"appId":"wx85e8e6fce747468a","nonceStr":"0wECPuongdfbFait","timestamp":1599917365,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009122129171008&mdata=6&s=77b21c2ea6420c6d7b9cb7f454be4b9f&code=041VDGGa187XAz0rxLFa1selAZ3VDGGH&state=123","signature":"61bbf5741dd8822f211f54157fdbb7b9c886ec78","rawString":"jsapi_ticket=&noncestr=0wECPuongdfbFait&timestamp=1599917365&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009122129171008&mdata=6&s=77b21c2ea6420c6d7b9cb7f454be4b9f&code=041VDGGa187XAz0rxLFa1selAZ3VDGGH&state=123"}
+2020-09-12 21:29:26: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"jZvmT8mUrQnpfo2J","prepay_id":"wx12212926421575967f7a8d40430ebd0000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"340C6C7BBCC5F9A7B90F53C080A6A61046E65F0299B054CA8C377D06C52C0719","trade_type":"JSAPI"}
+2020-09-12 21:29:26: {"appId":"wxc9feabf90096782c","nonceStr":"2mo6svnx408xoh6qvipas64lq0h9i4yq","package":"prepay_id=wx12212926421575967f7a8d40430ebd0000","signType":"HMAC-SHA256","timeStamp":"1599917366","paySign":"60EC3B82A7FEEE5688BD2E00F516F03AFA4C4D77B722A63AC4033FBD4EC6BC69"}
+2020-09-12 21:31:45: request {"role_id":"1032000002","server_id":"1032","type":"0","type_key":"2","money":"6"}
+2020-09-12 21:31:45: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000002&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 13:31:48: openid = oQcUr5PSZLwhZEavjsaEcAXMMh_4
+2020-09-12 13:31:48: openid = oQcUr5PSZLwhZEavjsaEcAXMMh_4
+2020-09-12 21:31:51: {"appId":"wx85e8e6fce747468a","nonceStr":"fFu7mUforEejkhZw","timestamp":1599917511,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009122131451009&mdata=6&s=3a82c814b9f225c3c13ae0ce89d7eb71&code=011ZDRFa1DtkCz0COlIa12R98U1ZDRFe&state=123","signature":"fb4534ed34774806651b284f5fc25da1701e2312","rawString":"jsapi_ticket=&noncestr=fFu7mUforEejkhZw&timestamp=1599917511&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009122131451009&mdata=6&s=3a82c814b9f225c3c13ae0ce89d7eb71&code=011ZDRFa1DtkCz0COlIa12R98U1ZDRFe&state=123"}
+2020-09-12 21:31:51: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"CwHxGYMue0xUD41u","prepay_id":"wx122131514551311d045f2cf7ddcc9a0000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"56CA0F93326E4F594264D962E904DCB96869E2F4AA7734FB3AA2269E722D9035","trade_type":"JSAPI"}
+2020-09-12 21:31:51: {"appId":"wxc9feabf90096782c","nonceStr":"zkt979y3n7x99lwudveewpn6c6s6w4p1","package":"prepay_id=wx122131514551311d045f2cf7ddcc9a0000","signType":"HMAC-SHA256","timeStamp":"1599917511","paySign":"D10E514652E21E7E5AC8778128D2358CBFF1543CFA1749503014511C922924C8"}
+2020-09-12 21:31:56: begin notify
+2020-09-12 21:31:56: call back:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"OTHERS","cash_fee":"600","fee_type":"CNY","is_subscribe":"N","mch_id":"1537253871","nonce_str":"c1mhupe6qbo1hufi9s6bvdm7js9jtp13","openid":"oY3AKwx_N1pFz7SWcexYqP8VrnaM","out_trade_no":"wx202009122131451009","result_code":"SUCCESS","return_code":"SUCCESS","sign":"D483C126F5DDF1E7C8764F9AEB72DB7970922D12CF2B3AC108E2698102AB6A06","time_end":"20200912213155","total_fee":"600","trade_type":"JSAPI","transaction_id":"4200000755202009126013955466"}
+2020-09-12 21:31:56: pay notify url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/pay_notify?out_order_no=wx202009122131451009&order_no=4200000755202009126013955466&pay_time=20200912213155&amount=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 21:31:57: query:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"OTHERS","cash_fee":"600","cash_fee_type":"CNY","fee_type":"CNY","is_subscribe":"N","mch_id":"1537253871","nonce_str":"jupRAJiKI6QDwLbM","openid":"oY3AKwx_N1pFz7SWcexYqP8VrnaM","out_trade_no":"wx202009122131451009","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"5DB55EF51339FE6164D4850A8E8266D8BBF1B46E509D440B80BDFC12B34AA766","time_end":"20200912213155","total_fee":"600","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000755202009126013955466"}
+2020-09-12 21:31:57: call back， return xml:<xml><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg></xml>
+2020-09-12 22:09:54: sync notify url connect db success 
+2020-09-12 22:09:54: ""
+2020-09-12 22:47:37: sync notify url connect db success 
+2020-09-12 22:47:37: ""
+2020-09-12 23:22:09: request {"role_id":"1032000001","server_id":"1032","type":"0","type_key":"2","money":"6"}
+2020-09-12 23:22:09: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000001&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 15:22:16: openid = oQcUr5ONSNoxbgeluE0tPDKLjxLg
+2020-09-12 15:22:19: openid = oQcUr5ONSNoxbgeluE0tPDKLjxLg
+2020-09-12 23:22:23: {"appId":"wx85e8e6fce747468a","nonceStr":"2WpacNd00rgO7X3X","timestamp":1599924143,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009122322091001&mdata=6&s=b496ab184e247efe7edddc8d97835221&code=021UYA0w33SSWU2fu22w3jyGOl3UYA0Q&state=123","signature":"66b5c4f532e599ff96e055f77f9e9a86f35bd873","rawString":"jsapi_ticket=&noncestr=2WpacNd00rgO7X3X&timestamp=1599924143&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009122322091001&mdata=6&s=b496ab184e247efe7edddc8d97835221&code=021UYA0w33SSWU2fu22w3jyGOl3UYA0Q&state=123"}
+2020-09-12 23:22:24: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"wZdATYmPcfXKHJM6","prepay_id":"wx12232224291742270bbeaf7d98730e0000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"DEA2A3AA0E525C09582420BFF0D62FD4F7B7A8AAF498076160E38D0053DA24C0","trade_type":"JSAPI"}
+2020-09-12 23:22:24: {"appId":"wxc9feabf90096782c","nonceStr":"e6bzpm0yp3wox8jt49bu4w06r1koagl1","package":"prepay_id=wx12232224291742270bbeaf7d98730e0000","signType":"HMAC-SHA256","timeStamp":"1599924144","paySign":"A67C274763E4E076C809D958D08965161E64B89FD703DF632013103A990621AE"}
+2020-09-12 23:22:30: begin notify
+2020-09-12 23:22:30: call back:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"OTHERS","cash_fee":"600","fee_type":"CNY","is_subscribe":"N","mch_id":"1537253871","nonce_str":"ce384s6zwlrovhjt5gdts01vbgkk4spv","openid":"oY3AKw6wifdehdZbjR3-yM6uZSYc","out_trade_no":"wx202009122322091001","result_code":"SUCCESS","return_code":"SUCCESS","sign":"858E44C19D9FFE5A00F2403FBF467A340F7F6905FB397212424A4CD8DA2FD126","time_end":"20200912232229","total_fee":"600","trade_type":"JSAPI","transaction_id":"4200000771202009127433476368"}
+2020-09-12 23:22:30: pay notify url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/pay_notify?out_order_no=wx202009122322091001&order_no=4200000771202009127433476368&pay_time=20200912232229&amount=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-12 23:22:30: query:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"OTHERS","cash_fee":"600","cash_fee_type":"CNY","fee_type":"CNY","is_subscribe":"N","mch_id":"1537253871","nonce_str":"d5uT9mLU77b3fHFP","openid":"oY3AKw6wifdehdZbjR3-yM6uZSYc","out_trade_no":"wx202009122322091001","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"24D4B45C43B44A3D55465D62E9CED12A05ADD7E79D96C9AB74BE56FC9E2F07A3","time_end":"20200912232229","total_fee":"600","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000771202009127433476368"}
+2020-09-12 23:22:30: call back， return xml:<xml><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg></xml>
+2020-09-13 11:51:00: sync notify url connect db success 
+2020-09-13 11:51:00: ""
+2020-09-14 10:51:05: request {"role_id":"1032000003","server_id":"1032","type":"0","type_key":"6","money":"128"}
+2020-09-14 10:51:05: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000003&type=0&type_key=6&money=128&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-14 02:51:10: openid = oQcUr5KO0ALa1DiRwxUnhL3cooUs
+2020-09-14 02:51:13: openid = oQcUr5KO0ALa1DiRwxUnhL3cooUs
+2020-09-14 10:52:10: request {"role_id":"1032000003","server_id":"1032","type":"0","type_key":"9","money":"648"}
+2020-09-14 10:52:10: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000003&type=0&type_key=9&money=648&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-14 02:52:12: openid = oQcUr5KO0ALa1DiRwxUnhL3cooUs
+2020-09-14 10:52:15: {"appId":"wx85e8e6fce747468a","nonceStr":"WOkw2jyTH5KhDBbz","timestamp":1600051935,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009141052101035&mdata=648&s=0a1579d71792b44d46bf7249e606263a&code=071r3Dkl2ZhhC54eYInl2OS4Tz4r3Dkv&state=123","signature":"076662c427eebdf46cd0a638a31c6bface860b35","rawString":"jsapi_ticket=&noncestr=WOkw2jyTH5KhDBbz&timestamp=1600051935&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009141052101035&mdata=648&s=0a1579d71792b44d46bf7249e606263a&code=071r3Dkl2ZhhC54eYInl2OS4Tz4r3Dkv&state=123"}
+2020-09-14 10:52:15: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"NA6XSDueXRoolkWW","prepay_id":"wx141052157240646f1cf89127060d3b0000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"6F2F616B1172A4F1BAF90ADED0183FED28A30F76EBBE5536722B4AFAD0DBF745","trade_type":"JSAPI"}
+2020-09-14 10:52:15: {"appId":"wxc9feabf90096782c","nonceStr":"bwc5x672uk90v5r5beud2etakn2e26p7","package":"prepay_id=wx141052157240646f1cf89127060d3b0000","signType":"HMAC-SHA256","timeStamp":"1600051935","paySign":"921B0747EFF75AD5FC3D72B2D08617918260E393B951B1CC4C0A666FD23BA9C0"}
+2020-09-14 10:52:25: request {"role_id":"1032000003","server_id":"1032","type":"0","type_key":"9","money":"648"}
+2020-09-14 10:52:25: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000003&type=0&type_key=9&money=648&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-14 02:52:27: openid = oQcUr5KO0ALa1DiRwxUnhL3cooUs
+2020-09-14 02:52:30: openid = oQcUr5KO0ALa1DiRwxUnhL3cooUs
+2020-09-14 10:52:45: sync notify url connect db success 
+2020-09-14 10:52:45: ""
+2020-09-14 11:26:22: sync notify url connect db success 
+2020-09-14 11:26:22: ""
+2020-09-14 12:04:31: sync notify url connect db success 
+2020-09-14 12:04:31: ""
+2020-09-14 12:16:33: sync notify url connect db success 
+2020-09-14 12:16:33: ""
+2020-09-14 17:25:09: request {"role_id":"1032000003","server_id":"1032","type":"0","type_key":"9","money":"648"}
+2020-09-14 17:25:09: url=http://s997.charge.sxwj.stonegame.club:21032/bizpay/order?role_id=1032000003&type=0&type_key=9&money=648&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-14 09:25:14: openid = oQcUr5KO0ALa1DiRwxUnhL3cooUs
+2020-09-14 09:25:17: openid = oQcUr5KO0ALa1DiRwxUnhL3cooUs
+2020-09-14 17:25:18: {"appId":"wx85e8e6fce747468a","nonceStr":"MtDTssuuCihuwh8W","timestamp":1600075518,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009141725091004&mdata=648&s=e8b9af2544f2f8069da945b909f3835d&code=021LLYFa1syVBz0TVTGa11uPbd4LLYFE&state=123","signature":"a78b5d5b2efafe31f641e3365f1d749e66772029","rawString":"jsapi_ticket=&noncestr=MtDTssuuCihuwh8W&timestamp=1600075518&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009141725091004&mdata=648&s=e8b9af2544f2f8069da945b909f3835d&code=021LLYFa1syVBz0TVTGa11uPbd4LLYFE&state=123"}
+2020-09-14 17:25:18: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"6R8UiqmCPkBQQgK9","prepay_id":"wx14172518555016423829379dee14930000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"0F83A2750F979E0C15C92D32BA697C5977A5A49725CE8E24ABF298ACF21D4BB6","trade_type":"JSAPI"}
+2020-09-14 17:25:18: {"appId":"wxc9feabf90096782c","nonceStr":"jx3d9cn0qbruexhuyu2zde1l6xea33xz","package":"prepay_id=wx14172518555016423829379dee14930000","signType":"HMAC-SHA256","timeStamp":"1600075518","paySign":"A06707065EAF78FF176E6F2E60812B589EDD5187D7B42D73E7296B06ECA9B5F5"}
+2020-09-14 17:34:06: sync notify url connect db success 
+2020-09-14 17:34:06: ""
+2020-09-14 17:40:52: sync notify url connect db success 
+2020-09-14 17:40:52: ""
+2020-09-14 17:48:49: sync notify url connect db success 
+2020-09-14 17:48:49: ""
+2020-09-14 17:49:45: sync notify url connect db success 
+2020-09-14 17:49:45: ""
+2020-09-15 09:55:20: sync notify url connect db success 
+2020-09-15 09:55:20: ""
+2020-09-15 10:21:52: request {"role_id":"1041000003","server_id":"1041","type":"0","type_key":"9","money":"648"}
+2020-09-15 10:21:52: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000003&type=0&type_key=9&money=648&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 02:21:58: openid = oQcUr5KO0ALa1DiRwxUnhL3cooUs
+2020-09-15 02:21:58: openid = oQcUr5KO0ALa1DiRwxUnhL3cooUs
+2020-09-15 10:22:01: {"appId":"wx85e8e6fce747468a","nonceStr":"Iq0faCt9awaFxN1z","timestamp":1600136521,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151021521002&mdata=648&s=6b3fb260ac777035c46bebc64c422c8b&code=0214wBFa1koZCz0sUCJa18SUjI04wBFE&state=123","signature":"402ebeee0447ef8f9ead38b07262a98f3f81012a","rawString":"jsapi_ticket=&noncestr=Iq0faCt9awaFxN1z&timestamp=1600136521&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151021521002&mdata=648&s=6b3fb260ac777035c46bebc64c422c8b&code=0214wBFa1koZCz0sUCJa18SUjI04wBFE&state=123"}
+2020-09-15 10:22:01: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"tKyUOhxoM3QhHzt8","prepay_id":"wx15102201893594e0242e18bd5a7f970000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"521F484B5D23ACF506ACCC9F107F8A0E6B3C8A0EF6BA52AA1A61B4BDFD220D5E","trade_type":"JSAPI"}
+2020-09-15 10:22:01: {"appId":"wxc9feabf90096782c","nonceStr":"v5lqn8ppll6rhtbjosnfitrkqum2gu26","package":"prepay_id=wx15102201893594e0242e18bd5a7f970000","signType":"HMAC-SHA256","timeStamp":"1600136521","paySign":"6B19A1B41297C8D785F3031A29A1C372E6A46230FCB9E287AA4590881D74CB8C"}
+2020-09-15 10:22:19: request {"role_id":"1041000002","server_id":"1041","type":"5","type_key":"27","money":"30"}
+2020-09-15 10:22:19: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000002&type=5&type_key=27&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 02:22:22: openid = oQcUr5DEftggseQkMDV1ew7ZbYZk
+2020-09-15 02:22:24: openid = oQcUr5DEftggseQkMDV1ew7ZbYZk
+2020-09-15 10:22:27: {"appId":"wx85e8e6fce747468a","nonceStr":"rAxPhlRm7nvyCWUb","timestamp":1600136547,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151022191004&mdata=30&s=c74385c626eb37605c732ff565882f4a&code=011jo7100QO7jK1rf8200trJ7y0jo71c&state=123","signature":"865512a8f6981987c5bac46b9f0981638528d3bc","rawString":"jsapi_ticket=&noncestr=rAxPhlRm7nvyCWUb&timestamp=1600136547&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151022191004&mdata=30&s=c74385c626eb37605c732ff565882f4a&code=011jo7100QO7jK1rf8200trJ7y0jo71c&state=123"}
+2020-09-15 10:22:28: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"41tjOWCiHNPZT06j","prepay_id":"wx15102228093049afc22c058f81e3670000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"3F60F879F6888B76510E935183F658473708A55EF7056CAF24A36C1AA7970837","trade_type":"JSAPI"}
+2020-09-15 10:22:28: {"appId":"wxc9feabf90096782c","nonceStr":"hlqd3kcidtplu183f4lzel82wf16lwso","package":"prepay_id=wx15102228093049afc22c058f81e3670000","signType":"HMAC-SHA256","timeStamp":"1600136548","paySign":"8FB18A8122561A3C4FEDB22FAB5451E4A3C329AE21A8AA78248864F9CD448915"}
+2020-09-15 10:22:42: request {"role_id":"1041000002","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 10:22:42: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000002&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 02:22:44: openid = oQcUr5DEftggseQkMDV1ew7ZbYZk
+2020-09-15 02:22:45: openid = oQcUr5DEftggseQkMDV1ew7ZbYZk
+2020-09-15 10:22:49: {"appId":"wx85e8e6fce747468a","nonceStr":"qBwfXw1DnEZA4FlG","timestamp":1600136569,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151022421005&mdata=6&s=1581d2ed9b394ec22a3547bd97f96996&code=0815zBFa13yZCz0WYuJa1lxngB25zBF7&state=123","signature":"88f974ae3d9919d67aa71866f0941efcdb16d6d2","rawString":"jsapi_ticket=&noncestr=qBwfXw1DnEZA4FlG&timestamp=1600136569&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151022421005&mdata=6&s=1581d2ed9b394ec22a3547bd97f96996&code=0815zBFa13yZCz0WYuJa1lxngB25zBF7&state=123"}
+2020-09-15 10:22:49: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"uhYWLSq7gw0HwGYQ","prepay_id":"wx15102249647488cfc7bc64d3068eba0000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"8FD6E7E8F3D4A585DA5ACCBCF4112C4414DE0D5FBFF40B25A0AF9F60AFDDEE45","trade_type":"JSAPI"}
+2020-09-15 10:22:49: {"appId":"wxc9feabf90096782c","nonceStr":"s6zlatl3a836jub8n6w6vjgq011dfiab","package":"prepay_id=wx15102249647488cfc7bc64d3068eba0000","signType":"HMAC-SHA256","timeStamp":"1600136569","paySign":"439108D449E9A3D90A60671E31ACCC025B634F7149EF6139A944311B142972B8"}
+2020-09-15 10:24:41: request {"role_id":"1041000003","server_id":"1041","type":"0","type_key":"5","money":"98"}
+2020-09-15 10:24:41: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000003&type=0&type_key=5&money=98&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 02:24:43: openid = oQcUr5KO0ALa1DiRwxUnhL3cooUs
+2020-09-15 10:25:47: request {"role_id":"1041000001","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 10:25:47: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000001&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 02:25:50: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-15 02:26:05: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-15 10:26:16: request {"role_id":"1041000001","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 10:26:16: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000001&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 02:26:18: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-15 02:26:21: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-15 10:27:05: request {"role_id":"1041000003","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 10:27:05: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000003&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 02:27:07: openid = oQcUr5KO0ALa1DiRwxUnhL3cooUs
+2020-09-15 10:27:18: request {"role_id":"1041000004","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 10:27:18: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000004&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 10:27:18: request {"role_id":"1041000004","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 10:27:18: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000004&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 10:27:23: request {"role_id":"1041000004","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 10:27:23: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000004&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 02:27:25: openid = oQcUr5Oog9qND0rMqmwn4u5OjnP0
+2020-09-15 02:27:27: openid = oQcUr5Oog9qND0rMqmwn4u5OjnP0
+2020-09-15 10:27:31: request {"role_id":"1041000002","server_id":"1041","type":"0","type_key":"5","money":"98"}
+2020-09-15 10:27:31: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000002&type=0&type_key=5&money=98&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 02:27:33: openid = oQcUr5DEftggseQkMDV1ew7ZbYZk
+2020-09-15 02:27:34: openid = oQcUr5DEftggseQkMDV1ew7ZbYZk
+2020-09-15 10:27:35: request {"role_id":"1041000004","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 10:27:35: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000004&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 10:47:22: request {"role_id":"1041000015","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 10:47:22: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000015&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 10:47:22: request {"role_id":"1041000015","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 10:47:22: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000015&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 10:49:21: request {"role_id":"1041000004","server_id":"1041","type":"2","type_key":"11","money":"148"}
+2020-09-15 10:49:21: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000004&type=2&type_key=11&money=148&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 02:49:26: openid = oQcUr5Oog9qND0rMqmwn4u5OjnP0
+2020-09-15 02:49:27: openid = oQcUr5Oog9qND0rMqmwn4u5OjnP0
+2020-09-15 10:54:23: request {"role_id":"1041000003","server_id":"1041","type":"2","type_key":"11","money":"148"}
+2020-09-15 10:54:23: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000003&type=2&type_key=11&money=148&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 10:57:12: request {"role_id":"1041000006","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 10:57:12: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000006&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 02:57:16: openid = oQcUr5KWvJlVnLXh_9xsU3mX1KOU
+2020-09-15 11:06:20: request {"role_id":"1041000001","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 11:06:20: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000001&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 03:06:26: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-15 11:06:30: {"appId":"wx85e8e6fce747468a","nonceStr":"OQx6LuqlFsWgpGCt","timestamp":1600139190,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151106201028&mdata=6&s=2f5e443038277ff58e543bc981d5e750&code=011k1n1w3U7GYU2uf23w3kDvUz4k1n1-&state=123","signature":"9e22d8ee096afb90a404cfc0db2d9a76c3d815f8","rawString":"jsapi_ticket=&noncestr=OQx6LuqlFsWgpGCt&timestamp=1600139190&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151106201028&mdata=6&s=2f5e443038277ff58e543bc981d5e750&code=011k1n1w3U7GYU2uf23w3kDvUz4k1n1-&state=123"}
+2020-09-15 11:06:30: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"XEfLueXt2FBK91D1","prepay_id":"wx15110630643314828ac5ba17609ba10000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"F249DF2E2814B0AE6455C05112B0B0407A2A0E8E19224289DF45F67CBE93EAB9","trade_type":"JSAPI"}
+2020-09-15 11:06:30: {"appId":"wxc9feabf90096782c","nonceStr":"rfzwy56bnokrzjgdj6rys99fexdb7imc","package":"prepay_id=wx15110630643314828ac5ba17609ba10000","signType":"HMAC-SHA256","timeStamp":"1600139190","paySign":"4C2CC4AA497874701C2946B2A5572A60565768836E98B4DEC90B71FE8DA414BC"}
+2020-09-15 11:06:38: begin notify
+2020-09-15 11:06:38: call back:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"SPDB_CREDIT","cash_fee":"600","fee_type":"CNY","is_subscribe":"Y","mch_id":"1537253871","nonce_str":"533gnofvw3cvziox91owmztdxa2ynayp","openid":"oY3AKw3nD5XKfSr9I6tFTe_dFWXM","out_trade_no":"wx202009151106201028","result_code":"SUCCESS","return_code":"SUCCESS","sign":"356246748794F3B2F2A665E35A6966275923B78A23876989AC361B47B0BC0DE3","time_end":"20200915110637","total_fee":"600","trade_type":"JSAPI","transaction_id":"4200000770202009159466112217"}
+2020-09-15 11:06:38: pay notify url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/pay_notify?out_order_no=wx202009151106201028&order_no=4200000770202009159466112217&pay_time=20200915110637&amount=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 11:06:38: query:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"SPDB_CREDIT","cash_fee":"600","cash_fee_type":"CNY","fee_type":"CNY","is_subscribe":"Y","mch_id":"1537253871","nonce_str":"oO9bWbnm5AINpb4J","openid":"oY3AKw3nD5XKfSr9I6tFTe_dFWXM","out_trade_no":"wx202009151106201028","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"242C445B58788A51E64ADF697350C59AFB7F096D4ADA37CB4883835A5136E918","time_end":"20200915110637","total_fee":"600","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000770202009159466112217"}
+2020-09-15 11:06:38: call back， return xml:<xml><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg></xml>
+2020-09-15 11:09:56: request {"role_id":"1041000001","server_id":"1041","type":"2","type_key":"11","money":"148"}
+2020-09-15 11:09:56: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000001&type=2&type_key=11&money=148&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 11:21:36: request {"role_id":"1041000003","server_id":"1041","type":"2","type_key":"11","money":"148"}
+2020-09-15 11:21:36: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000003&type=2&type_key=11&money=148&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 14:16:26: request {"role_id":"1041000003","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 14:16:26: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000003&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 16:01:45: request {"role_id":"1041000058","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 16:01:45: request {"role_id":"1041000058","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 16:01:45: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000058&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 16:01:45: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000058&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 16:02:04: request {"role_id":"1041000058","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 16:02:04: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000058&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 16:13:22: request {"role_id":"1041000062","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 16:13:22: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000062&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 16:16:28: request {"role_id":"1041000001","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 16:16:28: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000001&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 08:16:32: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-15 08:16:55: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-15 17:06:31: request {"role_id":"1041000030","server_id":"1041","type":"2","type_key":"11","money":"148"}
+2020-09-15 17:06:31: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000030&type=2&type_key=11&money=148&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 17:06:59: request {"role_id":"1041000030","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 17:06:59: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000030&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 17:07:04: request {"role_id":"1041000030","server_id":"1041","type":"7","type_key":"201","money":"1"}
+2020-09-15 17:07:04: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000030&type=7&type_key=201&money=1&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 17:07:09: request {"role_id":"1041000030","server_id":"1041","type":"5","type_key":"27","money":"30"}
+2020-09-15 17:07:09: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000030&type=5&type_key=27&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 17:12:18: request {"role_id":"1041000006","server_id":"1041","type":"0","type_key":"3","money":"30"}
+2020-09-15 17:12:18: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000006&type=0&type_key=3&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 09:12:24: openid = oQcUr5KWvJlVnLXh_9xsU3mX1KOU
+2020-09-15 09:12:27: openid = oQcUr5KWvJlVnLXh_9xsU3mX1KOU
+2020-09-15 17:12:33: {"appId":"wx85e8e6fce747468a","nonceStr":"k5tqtjHIlLs08IZE","timestamp":1600161153,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151712181080&mdata=30&s=b1ce3c8a49f98de2683548a86915baeb&code=031Y250w3vhiXU22cw0w3vv4jy3Y250e&state=123","signature":"8f31955e61c84c5513ee991027601304cc98ad1a","rawString":"jsapi_ticket=&noncestr=k5tqtjHIlLs08IZE&timestamp=1600161153&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151712181080&mdata=30&s=b1ce3c8a49f98de2683548a86915baeb&code=031Y250w3vhiXU22cw0w3vv4jy3Y250e&state=123"}
+2020-09-15 17:12:34: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"i9lAZQbCc4je1Su2","prepay_id":"wx1517123431809288f065c6ce9aae960000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"2FAFA31237B8F4A34CF40A4B53CD08D7CC908DFD3E4FA183CA6FFCE3F3BB9488","trade_type":"JSAPI"}
+2020-09-15 17:12:34: {"appId":"wxc9feabf90096782c","nonceStr":"vs23h1t7aqezdx9mfqun5fjod3cqr3ox","package":"prepay_id=wx1517123431809288f065c6ce9aae960000","signType":"HMAC-SHA256","timeStamp":"1600161154","paySign":"6732B5828DD749D5772EBDDAB84CEC2ACE907CEEB5DE76E6C3C648AA5BC53969"}
+2020-09-15 17:12:36: {"appId":"wx85e8e6fce747468a","nonceStr":"Y3RAZWIQzTC4VvQA","timestamp":1600161156,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151712181080&mdata=30&s=b1ce3c8a49f98de2683548a86915baeb&code=031EKLkl2gABC54pnUll2xK0DM2EKLkp&state=123","signature":"0efdfd46c8cde5d85d9bd155dc7db5810a2dd241","rawString":"jsapi_ticket=&noncestr=Y3RAZWIQzTC4VvQA&timestamp=1600161156&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151712181080&mdata=30&s=b1ce3c8a49f98de2683548a86915baeb&code=031EKLkl2gABC54pnUll2xK0DM2EKLkp&state=123"}
+2020-09-15 17:12:37: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"Gfq5aodxuXQUlaU5","prepay_id":"wx1517123706178988f065c6ce253d660000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"302AFF7DC1A43C346715706F7B9E022FC2C4F72CE8573169F41D3F03D8C9299D","trade_type":"JSAPI"}
+2020-09-15 17:12:37: {"appId":"wxc9feabf90096782c","nonceStr":"1ijkh562p1gqrce8l3kf44rswbtf1y6o","package":"prepay_id=wx1517123706178988f065c6ce253d660000","signType":"HMAC-SHA256","timeStamp":"1600161157","paySign":"16063F8D7FA604641EC9ABA8C3FEE10C58E5560126D6EA86017FB7C7AD771FB2"}
+2020-09-15 17:12:46: request {"role_id":"1041000006","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 17:12:46: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000006&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 09:12:48: openid = oQcUr5KWvJlVnLXh_9xsU3mX1KOU
+2020-09-15 09:12:50: openid = oQcUr5KWvJlVnLXh_9xsU3mX1KOU
+2020-09-15 17:12:52: {"appId":"wx85e8e6fce747468a","nonceStr":"9XieRFbYNMuKEeKy","timestamp":1600161172,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151712461081&mdata=6&s=433687955477468c269a8c5d777db1ce&code=091KUAll2QFqD54qPjml2tVYt52KUAlG&state=123","signature":"36594009ec594a34d457c81bb3e89cfb5acb53cb","rawString":"jsapi_ticket=&noncestr=9XieRFbYNMuKEeKy&timestamp=1600161172&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151712461081&mdata=6&s=433687955477468c269a8c5d777db1ce&code=091KUAll2QFqD54qPjml2tVYt52KUAlG&state=123"}
+2020-09-15 17:12:53: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"Hdx0ZMgE31RsnwS8","prepay_id":"wx151712531098995c2de419bb7b2ec40000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"7C533ED9C61423FA1627F9022CFA4BBC86320637D761D4A0899AF49D5916C979","trade_type":"JSAPI"}
+2020-09-15 17:12:53: {"appId":"wxc9feabf90096782c","nonceStr":"mrdol51utj3apm8ywhoxv8ppr61k698i","package":"prepay_id=wx151712531098995c2de419bb7b2ec40000","signType":"HMAC-SHA256","timeStamp":"1600161173","paySign":"C96D209A9BE1EE1D0B28D797CD703F0050F0CCD5DA7DF1F0B7AFFCBF86E88921"}
+2020-09-15 17:12:58: begin notify
+2020-09-15 17:12:58: call back:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"COMM_CREDIT","cash_fee":"600","fee_type":"CNY","is_subscribe":"N","mch_id":"1537253871","nonce_str":"jqpymj43w588m9otggibucq9cp9ex0sm","openid":"oY3AKw41TvuVIarVVUB5wL3Lcu9c","out_trade_no":"wx202009151712461081","result_code":"SUCCESS","return_code":"SUCCESS","sign":"6050F345C22C6200B3BCC2057ADBD5D5A0EE8CC16CA9F1CBFE5555B89D7D65A9","time_end":"20200915171258","total_fee":"600","trade_type":"JSAPI","transaction_id":"4200000758202009152476756733"}
+2020-09-15 17:12:58: pay notify url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/pay_notify?out_order_no=wx202009151712461081&order_no=4200000758202009152476756733&pay_time=20200915171258&amount=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 17:12:59: query:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"COMM_CREDIT","cash_fee":"600","cash_fee_type":"CNY","fee_type":"CNY","is_subscribe":"N","mch_id":"1537253871","nonce_str":"v7DsMmpvfsZB8HpX","openid":"oY3AKw41TvuVIarVVUB5wL3Lcu9c","out_trade_no":"wx202009151712461081","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"3D99B8DF9413FBA00AC7E298E140CAC322714B71A1FDB582769B65A93868FB16","time_end":"20200915171258","total_fee":"600","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000758202009152476756733"}
+2020-09-15 17:12:59: call back， return xml:<xml><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg></xml>
+2020-09-15 17:16:32: request {"role_id":"1041000006","server_id":"1041","type":"7","type_key":"201","money":"1"}
+2020-09-15 17:16:32: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000006&type=7&type_key=201&money=1&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 09:16:35: openid = oQcUr5KWvJlVnLXh_9xsU3mX1KOU
+2020-09-15 17:16:44: request {"role_id":"1041000006","server_id":"1041","type":"7","type_key":"203","money":"6"}
+2020-09-15 17:16:44: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000006&type=7&type_key=203&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 09:16:47: openid = oQcUr5KWvJlVnLXh_9xsU3mX1KOU
+2020-09-15 17:16:50: {"appId":"wx85e8e6fce747468a","nonceStr":"JvtoioHnVHNFkyhq","timestamp":1600161410,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151716441083&mdata=6&s=4ffcf79259d08250085a0d303cdd0817&code=001cpD0w35jQXU2mio2w3LWI7F3cpD03&state=123","signature":"0bc1f4438d3c94360460c8569d6f23852005d7b0","rawString":"jsapi_ticket=&noncestr=JvtoioHnVHNFkyhq&timestamp=1600161410&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151716441083&mdata=6&s=4ffcf79259d08250085a0d303cdd0817&code=001cpD0w35jQXU2mio2w3LWI7F3cpD03&state=123"}
+2020-09-15 17:16:50: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"gLwFGo6KwUX8S9GH","prepay_id":"wx151716505988911914fd747ddf989b0000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"EF84C16CA38AA61ABF94017AB06DC48014166E6BB2FE87FD198D04923FD1961D","trade_type":"JSAPI"}
+2020-09-15 17:16:50: {"appId":"wxc9feabf90096782c","nonceStr":"sc0d2gbjdjnnelc31zrbjo36td2zrdbv","package":"prepay_id=wx151716505988911914fd747ddf989b0000","signType":"HMAC-SHA256","timeStamp":"1600161410","paySign":"CCC8206F8057ABF59AADE6347F0CE16D95DF88D2CF45B9058526EB299824E903"}
+2020-09-15 17:16:59: begin notify
+2020-09-15 17:16:59: call back:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"COMM_CREDIT","cash_fee":"600","fee_type":"CNY","is_subscribe":"Y","mch_id":"1537253871","nonce_str":"7l8ya4xehsijtuk1t4evryj8hjh8i9o2","openid":"oY3AKw41TvuVIarVVUB5wL3Lcu9c","out_trade_no":"wx202009151716441083","result_code":"SUCCESS","return_code":"SUCCESS","sign":"0BC1B0C7914358F4B039016CD03A43FEC8EF3000F6407039BF5653D540C91C75","time_end":"20200915171659","total_fee":"600","trade_type":"JSAPI","transaction_id":"4200000761202009155348131109"}
+2020-09-15 17:16:59: pay notify url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/pay_notify?out_order_no=wx202009151716441083&order_no=4200000761202009155348131109&pay_time=20200915171659&amount=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 17:17:00: query:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"COMM_CREDIT","cash_fee":"600","cash_fee_type":"CNY","fee_type":"CNY","is_subscribe":"Y","mch_id":"1537253871","nonce_str":"BnnfoOdZvxMK92G4","openid":"oY3AKw41TvuVIarVVUB5wL3Lcu9c","out_trade_no":"wx202009151716441083","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"59BC8D53B03B16C55F6029C458677E4FD3E429018F258B172DDE5CD8C4ECD96F","time_end":"20200915171659","total_fee":"600","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000761202009155348131109"}
+2020-09-15 17:17:00: call back， return xml:<xml><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg></xml>
+2020-09-15 17:17:16: request {"role_id":"1041000006","server_id":"1041","type":"7","type_key":"203","money":"6"}
+2020-09-15 17:17:16: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000006&type=7&type_key=203&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 09:17:19: openid = oQcUr5KWvJlVnLXh_9xsU3mX1KOU
+2020-09-15 17:17:51: request {"role_id":"1041000006","server_id":"1041","type":"7","type_key":"203","money":"6"}
+2020-09-15 17:17:51: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000006&type=7&type_key=203&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 09:17:53: openid = oQcUr5KWvJlVnLXh_9xsU3mX1KOU
+2020-09-15 17:17:55: {"appId":"wx85e8e6fce747468a","nonceStr":"V48k1J1q6eahKByj","timestamp":1600161475,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151717511085&mdata=6&s=8022f7538e95bca0a60aeef191971b49&code=091jtD0w3E5QXU2ae90w302Rek2jtD0E&state=123","signature":"3ed857ab76ed07bcad83847430a1d7d5ce8a0ced","rawString":"jsapi_ticket=&noncestr=V48k1J1q6eahKByj&timestamp=1600161475&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151717511085&mdata=6&s=8022f7538e95bca0a60aeef191971b49&code=091jtD0w3E5QXU2ae90w302Rek2jtD0E&state=123"}
+2020-09-15 17:17:56: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"0Vcp06UMnR8feIsT","prepay_id":"wx151717559576200f1e6e9cabd111560000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"6041BEF6539418072A40299BBDCAB724851BD854CF7DDE537D4252A377E8BD0F","trade_type":"JSAPI"}
+2020-09-15 17:17:56: {"appId":"wxc9feabf90096782c","nonceStr":"x4c9seim06h318jaj1qfp56sbnkfvhxk","package":"prepay_id=wx151717559576200f1e6e9cabd111560000","signType":"HMAC-SHA256","timeStamp":"1600161476","paySign":"9187F58FD658061A3EE1B4C89D88006E7AAB29341813538CD2692327E0A1AE23"}
+2020-09-15 17:18:07: begin notify
+2020-09-15 17:18:07: call back:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"COMM_CREDIT","cash_fee":"600","fee_type":"CNY","is_subscribe":"Y","mch_id":"1537253871","nonce_str":"wbyjn8103rcwetderbseo9rh6o8a3w68","openid":"oY3AKw41TvuVIarVVUB5wL3Lcu9c","out_trade_no":"wx202009151717511085","result_code":"SUCCESS","return_code":"SUCCESS","sign":"E27F28BCB4006FBE03D0DC7BD314CC629FDACE2A4ECBE701BC5402C9855434D6","time_end":"20200915171806","total_fee":"600","trade_type":"JSAPI","transaction_id":"4200000767202009157800662390"}
+2020-09-15 17:18:07: pay notify url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/pay_notify?out_order_no=wx202009151717511085&order_no=4200000767202009157800662390&pay_time=20200915171806&amount=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 17:18:07: query:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"COMM_CREDIT","cash_fee":"600","cash_fee_type":"CNY","fee_type":"CNY","is_subscribe":"Y","mch_id":"1537253871","nonce_str":"aSx0ZjlscmTzL4Au","openid":"oY3AKw41TvuVIarVVUB5wL3Lcu9c","out_trade_no":"wx202009151717511085","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"6F6C376F43EFA03A2301F848748170B78FE3D0C9F4BCE3A8A9F2C6D76CDF1CBC","time_end":"20200915171806","total_fee":"600","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000767202009157800662390"}
+2020-09-15 17:18:07: call back， return xml:<xml><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg></xml>
+2020-09-15 17:24:43: request {"role_id":"1041000006","server_id":"1041","type":"5","type_key":"27","money":"30"}
+2020-09-15 17:24:43: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000006&type=5&type_key=27&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 17:49:18: request {"role_id":"1041000006","server_id":"1041","type":"7","type_key":"203","money":"6"}
+2020-09-15 17:49:18: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000006&type=7&type_key=203&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 09:49:20: openid = oQcUr5KWvJlVnLXh_9xsU3mX1KOU
+2020-09-15 09:49:26: openid = oQcUr5KWvJlVnLXh_9xsU3mX1KOU
+2020-09-15 17:49:29: {"appId":"wx85e8e6fce747468a","nonceStr":"ItZOD1J3P6JhCLxu","timestamp":1600163369,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151749181094&mdata=6&s=1ff70bc0c0c00a5d35a33abcd007c116&code=041Blo0w3eWAXU2wpm0w3oFqqx1Blo0z&state=123","signature":"e955011c09f7a2e38a2598e17cf8e32b13ea5492","rawString":"jsapi_ticket=&noncestr=ItZOD1J3P6JhCLxu&timestamp=1600163369&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151749181094&mdata=6&s=1ff70bc0c0c00a5d35a33abcd007c116&code=041Blo0w3eWAXU2wpm0w3oFqqx1Blo0z&state=123"}
+2020-09-15 17:49:30: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"rYoX3tikqGsMvs8h","prepay_id":"wx151749300496053e1f7eef579055d90000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"066C3D31D9160DC8508E27F2BF26C56EAD1151EF16440317BF41D2B03B7F5ACC","trade_type":"JSAPI"}
+2020-09-15 17:49:30: {"appId":"wxc9feabf90096782c","nonceStr":"mip3fnkqhgdeqyqys7ex3me0ofoueyhe","package":"prepay_id=wx151749300496053e1f7eef579055d90000","signType":"HMAC-SHA256","timeStamp":"1600163370","paySign":"D8DA0EE4930ABEEAD9F9B11B2D63EBE64C86BF6AC1C172C1A39BDFCB316D7974"}
+2020-09-15 17:49:35: begin notify
+2020-09-15 17:49:35: call back:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"COMM_CREDIT","cash_fee":"600","fee_type":"CNY","is_subscribe":"Y","mch_id":"1537253871","nonce_str":"lnuh8c3hiixshjxxbfozwihghm6mlgw6","openid":"oY3AKw41TvuVIarVVUB5wL3Lcu9c","out_trade_no":"wx202009151749181094","result_code":"SUCCESS","return_code":"SUCCESS","sign":"5A4FEE19A1750F30F9230CC85181AD7AA781113FF26B185F355CC84FEFE626A8","time_end":"20200915174934","total_fee":"600","trade_type":"JSAPI","transaction_id":"4200000761202009156188827837"}
+2020-09-15 17:49:35: pay notify url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/pay_notify?out_order_no=wx202009151749181094&order_no=4200000761202009156188827837&pay_time=20200915174934&amount=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 17:49:35: query:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"COMM_CREDIT","cash_fee":"600","cash_fee_type":"CNY","fee_type":"CNY","is_subscribe":"Y","mch_id":"1537253871","nonce_str":"B5jhbWw5jPYAdTTu","openid":"oY3AKw41TvuVIarVVUB5wL3Lcu9c","out_trade_no":"wx202009151749181094","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"88F26F9CFBDA3C26B47DEAACABF9A86B2A943D4FD249659F0A9F1B89770AECB7","time_end":"20200915174934","total_fee":"600","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000761202009156188827837"}
+2020-09-15 17:49:35: call back， return xml:<xml><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg></xml>
+2020-09-15 18:39:13: request {"role_id":"1041000198","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 18:39:13: request {"role_id":"1041000198","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 18:39:13: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000198&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 18:39:13: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000198&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 18:40:39: request {"role_id":"1041000196","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 18:40:39: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000196&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 18:40:39: request {"role_id":"1041000196","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 18:40:39: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000196&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 18:40:49: sync notify url connect db success 
+2020-09-15 18:40:49: ""
+2020-09-15 18:44:51: sync notify url connect db success 
+2020-09-15 18:44:51: ""
+2020-09-15 18:48:32: sync notify url connect db success 
+2020-09-15 18:48:32: ""
+2020-09-15 18:58:53: request {"role_id":"1041000229","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 18:58:53: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000229&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:14:22: request {"role_id":"1041000271","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:14:22: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000271&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 11:14:28: openid = oQcUr5G8ra9LyIqemDn7M7ooJbOU
+2020-09-15 19:14:28: request {"role_id":"1041000271","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:14:28: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000271&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:16:03: request {"role_id":"1041000015","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:16:03: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000015&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:19:11: request {"role_id":"1041000274","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:19:11: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000274&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:21:52: request {"role_id":"1041000274","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:21:52: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000274&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:21:58: request {"role_id":"1041000274","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:21:58: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000274&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:38:53: request {"role_id":"1041000389","server_id":"1041","type":"0","type_key":"3","money":"30"}
+2020-09-15 19:38:53: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000389&type=0&type_key=3&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:51:16: request {"role_id":"1041000421","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:51:16: request {"role_id":"1041000421","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:51:16: request {"role_id":"1041000421","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:51:16: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000421&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:51:16: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000421&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:51:16: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000421&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:51:16: request {"role_id":"1041000421","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:51:16: request {"role_id":"1041000421","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:51:16: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000421&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:51:16: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000421&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 11:51:21: openid = oQcUr5CcySSRcCdt4g9QMVo557p8
+2020-09-15 19:51:27: {"appId":"wx85e8e6fce747468a","nonceStr":"Y1kh15dbcYKpqoZa","timestamp":1600170687,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151951161137&mdata=6&s=94146d95031f154f50841e81ae37ea66&code=041CJe0w3kdKXU281j2w3Y5kqY3CJe0I&state=123","signature":"ced4017b3d0769367a7b5ebaa5829006a1a93301","rawString":"jsapi_ticket=&noncestr=Y1kh15dbcYKpqoZa&timestamp=1600170687&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151951161137&mdata=6&s=94146d95031f154f50841e81ae37ea66&code=041CJe0w3kdKXU281j2w3Y5kqY3CJe0I&state=123"}
+2020-09-15 19:51:28: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"rOS4H9Xwm1wZq0nX","prepay_id":"wx151951280185614a6d4cb689ba91b90000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"328A868C6424FFE83C17FB9DE7E5F7CA91BE1D779FA9BD75EDF30F2220E6F22A","trade_type":"JSAPI"}
+2020-09-15 19:51:28: {"appId":"wxc9feabf90096782c","nonceStr":"rhmfj4t2zbc722hcf7gnkp7y6hna4we9","package":"prepay_id=wx151951280185614a6d4cb689ba91b90000","signType":"HMAC-SHA256","timeStamp":"1600170688","paySign":"07CF95B96C91ECF0A60D54BE2A79170F2177A677B73C9E1DF35EF710A5996BD1"}
+2020-09-15 11:51:34: openid = oQcUr5CcySSRcCdt4g9QMVo557p8
+2020-09-15 19:53:41: request {"role_id":"1041000376","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:53:41: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000376&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 11:53:44: openid = oQcUr5OgXtx4eUwOht4rNddd509w
+2020-09-15 19:53:53: request {"role_id":"1041000376","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:53:53: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000376&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 11:53:55: openid = oQcUr5OgXtx4eUwOht4rNddd509w
+2020-09-15 19:53:57: request {"role_id":"1041000376","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:53:57: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000376&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:54:31: request {"role_id":"1041000413","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:54:31: request {"role_id":"1041000413","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:54:31: request {"role_id":"1041000413","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:54:31: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000413&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:54:31: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000413&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:54:31: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000413&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:54:31: request {"role_id":"1041000413","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:54:31: request {"role_id":"1041000413","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:54:31: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000413&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:54:31: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000413&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 19:55:30: request {"role_id":"1041000360","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 19:55:30: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000360&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 20:07:53: request {"role_id":"1041000450","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 20:07:53: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000450&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 21:08:43: request {"role_id":"1041000421","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 21:08:43: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000421&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 21:12:51: request {"role_id":"1041000673","server_id":"1041","type":"0","type_key":"6","money":"128"}
+2020-09-15 21:12:51: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000673&type=0&type_key=6&money=128&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 21:13:02: request {"role_id":"1041000673","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 21:13:02: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000673&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 21:24:55: sync notify url connect db success 
+2020-09-15 21:24:55: ""
+2020-09-15 21:44:45: request {"role_id":"1041000742","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 21:44:45: request {"role_id":"1041000742","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 21:44:45: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000742&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 21:44:45: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000742&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 21:52:40: request {"role_id":"1041000789","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 21:52:40: request {"role_id":"1041000789","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 21:52:40: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000789&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 21:52:40: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000789&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 21:52:56: request {"role_id":"1041000789","server_id":"1041","type":"0","type_key":"9","money":"648"}
+2020-09-15 21:52:56: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000789&type=0&type_key=9&money=648&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 21:53:02: request {"role_id":"1041000789","server_id":"1041","type":"0","type_key":"9","money":"648"}
+2020-09-15 21:53:02: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000789&type=0&type_key=9&money=648&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 21:55:34: request {"role_id":"1041000787","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 21:55:34: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000787&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 21:58:35: request {"role_id":"1041000793","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 21:58:35: request {"role_id":"1041000793","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 21:58:35: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000793&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 21:58:35: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000793&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 22:28:33: request {"role_id":"1041000002","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-15 22:28:33: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000002&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-15 14:28:37: openid = oQcUr5DEftggseQkMDV1ew7ZbYZk
+2020-09-15 22:28:39: {"appId":"wx85e8e6fce747468a","nonceStr":"3nj26obiIhnUsiy2","timestamp":1600180119,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009152228331211&mdata=6&s=63ea82586dc851f3bb6817c66b300438&code=051QFuFa1fzLCz0MHbHa1cc6N43QFuF4&state=123","signature":"5f51484c50fb3f6bf161cded2ff7e2de47afffd5","rawString":"jsapi_ticket=&noncestr=3nj26obiIhnUsiy2&timestamp=1600180119&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009152228331211&mdata=6&s=63ea82586dc851f3bb6817c66b300438&code=051QFuFa1fzLCz0MHbHa1cc6N43QFuF4&state=123"}
+2020-09-15 14:28:40: openid = oQcUr5DEftggseQkMDV1ew7ZbYZk
+2020-09-15 22:28:40: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"XGWRKgv44D78EdlP","prepay_id":"wx15222840171680a3ae6e0c0fa76f780000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"48CA324192D0DC76F8EBE36CDDF02DA4364E3BFDEFFC3FB4C18C0F12EB0C7FEE","trade_type":"JSAPI"}
+2020-09-15 22:28:40: {"appId":"wxc9feabf90096782c","nonceStr":"2xwr3o27xmd2tcu4xvrynnbbqmbfydkl","package":"prepay_id=wx15222840171680a3ae6e0c0fa76f780000","signType":"HMAC-SHA256","timeStamp":"1600180120","paySign":"A5B1A9FF0A5706A83CE0E3A2622DEDC7FCA94FC7D239707B8574E4242BA52EDC"}
+2020-09-15 23:15:08: sync notify url connect db success 
+2020-09-15 23:15:08: ""
+2020-09-16 00:27:17: request {"role_id":"1041000826","server_id":"1041","type":"5","type_key":"27","money":"30"}
+2020-09-16 00:27:17: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000826&type=5&type_key=27&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 00:27:39: sync notify url connect db success 
+2020-09-16 00:27:39: ""
+2020-09-16 08:37:37: request {"role_id":"1041000207","server_id":"1041","type":"0","type_key":"3","money":"30"}
+2020-09-16 08:37:37: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000207&type=0&type_key=3&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 08:49:24: request {"role_id":"1041000207","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-16 08:49:24: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000207&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 08:59:19: request {"role_id":"1042000119","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 08:59:19: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000119&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 09:26:18: request {"role_id":"1042000146","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 09:26:18: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000146&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 09:26:18: request {"role_id":"1042000146","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 09:26:18: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000146&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 09:26:22: request {"role_id":"1042000146","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 09:26:22: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000146&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 09:29:49: request {"role_id":"1042000159","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 09:29:49: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000159&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 09:29:49: request {"role_id":"1042000159","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 09:29:49: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000159&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 09:29:53: request {"role_id":"1042000159","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 09:29:53: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000159&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 01:29:58: openid = oQcUr5DXlaCRijiMvEr4npvb8yn4
+2020-09-16 10:33:03: request {"role_id":"1042000117","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 10:33:03: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000117&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 02:33:07: openid = oQcUr5DEftggseQkMDV1ew7ZbYZk
+2020-09-16 11:45:39: request {"role_id":"1041000376","server_id":"1041","type":"0","type_key":"3","money":"30"}
+2020-09-16 11:45:39: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000376&type=0&type_key=3&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 03:45:43: openid = oQcUr5OgXtx4eUwOht4rNddd509w
+2020-09-16 11:48:39: request {"role_id":"1041000376","server_id":"1041","type":"0","type_key":"3","money":"30"}
+2020-09-16 11:48:39: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000376&type=0&type_key=3&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 03:48:41: openid = oQcUr5OgXtx4eUwOht4rNddd509w
+2020-09-16 14:51:51: request {"role_id":"1042000303","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 14:51:51: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000303&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 15:18:06: request {"role_id":"1042000310","server_id":"1042","type":"0","type_key":"6","money":"128"}
+2020-09-16 15:18:06: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000310&type=0&type_key=6&money=128&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 07:18:12: openid = oQcUr5Dun9A0gnbOwjjAQzQb1bjU
+2020-09-16 15:21:38: request {"role_id":"1042000310","server_id":"1042","type":"0","type_key":"7","money":"198"}
+2020-09-16 15:21:38: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000310&type=0&type_key=7&money=198&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 07:21:40: openid = oQcUr5Dun9A0gnbOwjjAQzQb1bjU
+2020-09-16 15:22:01: request {"role_id":"1042000310","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 15:22:01: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000310&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 15:22:41: request {"role_id":"1042000310","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 15:22:41: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000310&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 15:54:41: request {"role_id":"1041000062","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-16 15:54:41: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000062&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 07:54:45: openid = oQcUr5PS3glnUAalr_xwawM-NAkc
+2020-09-16 15:59:22: request {"role_id":"1042000330","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 15:59:22: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000330&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 15:59:51: request {"role_id":"1042000330","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 15:59:51: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000330&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 16:00:03: request {"role_id":"1042000330","server_id":"1042","type":"5","type_key":"27","money":"30"}
+2020-09-16 16:00:03: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000330&type=5&type_key=27&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 16:32:26: request {"role_id":"1042000403","server_id":"1042","type":"0","type_key":"4","money":"68"}
+2020-09-16 16:32:26: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000403&type=0&type_key=4&money=68&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 16:32:28: request {"role_id":"1042000403","server_id":"1042","type":"0","type_key":"8","money":"328"}
+2020-09-16 16:32:28: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000403&type=0&type_key=8&money=328&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 16:32:30: request {"role_id":"1042000403","server_id":"1042","type":"0","type_key":"9","money":"648"}
+2020-09-16 16:32:30: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000403&type=0&type_key=9&money=648&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 16:32:32: request {"role_id":"1042000403","server_id":"1042","type":"0","type_key":"5","money":"98"}
+2020-09-16 16:32:32: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000403&type=0&type_key=5&money=98&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 16:32:34: request {"role_id":"1042000403","server_id":"1042","type":"0","type_key":"7","money":"198"}
+2020-09-16 16:32:34: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000403&type=0&type_key=7&money=198&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 16:32:37: request {"role_id":"1042000403","server_id":"1042","type":"0","type_key":"3","money":"30"}
+2020-09-16 16:32:37: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000403&type=0&type_key=3&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 16:32:39: request {"role_id":"1042000403","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 16:32:39: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000403&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 16:32:41: request {"role_id":"1042000403","server_id":"1042","type":"0","type_key":"6","money":"128"}
+2020-09-16 16:32:41: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000403&type=0&type_key=6&money=128&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 16:32:46: request {"role_id":"1042000403","server_id":"1042","type":"0","type_key":"6","money":"128"}
+2020-09-16 16:32:46: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000403&type=0&type_key=6&money=128&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 16:32:53: request {"role_id":"1042000403","server_id":"1042","type":"0","type_key":"6","money":"128"}
+2020-09-16 16:32:53: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000403&type=0&type_key=6&money=128&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 16:35:43: request {"role_id":"1042000403","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 16:35:43: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000403&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 16:35:59: request {"role_id":"1042000403","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 16:35:59: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000403&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 18:25:44: request {"role_id":"1042000546","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 18:25:44: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000546&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 20:42:56: request {"role_id":"1042000608","server_id":"1042","type":"0","type_key":"3","money":"30"}
+2020-09-16 20:42:56: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000608&type=0&type_key=3&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 20:43:55: request {"role_id":"1042000608","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-16 20:43:55: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000608&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 21:06:12: request {"role_id":"1041000207","server_id":"1041","type":"0","type_key":"5","money":"98"}
+2020-09-16 21:06:12: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000207&type=0&type_key=5&money=98&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 21:23:02: request {"role_id":"1041000207","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-16 21:23:02: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000207&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-16 21:23:39: request {"role_id":"1041000207","server_id":"1041","type":"2","type_key":"11","money":"148"}
+2020-09-16 21:23:39: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000207&type=2&type_key=11&money=148&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-17 05:50:00: request {"role_id":"1041000207","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-17 05:50:00: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000207&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-17 07:06:23: request {"role_id":"1042000345","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-17 07:06:23: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000345&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-17 09:56:51: request {"role_id":"1041000004","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-17 09:56:51: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000004&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-17 11:22:26: sync notify url connect db success 
+2020-09-17 11:22:27: ""
+2020-09-17 11:34:46: request {"role_id":"1041000062","server_id":"1041","type":"2","type_key":"11","money":"148"}
+2020-09-17 11:34:46: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000062&type=2&type_key=11&money=148&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-17 11:34:52: request {"role_id":"1041000062","server_id":"1041","type":"2","type_key":"11","money":"148"}
+2020-09-17 11:34:52: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000062&type=2&type_key=11&money=148&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-17 03:34:56: openid = oQcUr5PS3glnUAalr_xwawM-NAkc
+2020-09-17 03:34:58: openid = oQcUr5PS3glnUAalr_xwawM-NAkc
+2020-09-17 12:22:52: request {"role_id":"1041000207","server_id":"1041","type":"0","type_key":"3","money":"30"}
+2020-09-17 12:22:52: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000207&type=0&type_key=3&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-17 12:24:46: request {"role_id":"1041000207","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-17 12:24:46: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000207&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-17 14:29:27: sync notify url connect db success 
+2020-09-17 14:29:27: ""
+2020-09-17 15:41:50: sync notify url connect db success 
+2020-09-17 15:41:50: ""
+2020-09-17 15:45:11: sync notify url connect db success 
+2020-09-17 15:45:11: ""
+2020-09-17 15:46:38: sync notify url connect db success 
+2020-09-17 15:46:38: ""
+2020-09-17 15:53:18: sync notify url connect db success 
+2020-09-17 15:53:18: ""
+2020-09-17 16:02:13: sync notify url connect db success 
+2020-09-17 16:02:13: ""
+2020-09-17 16:03:43: sync notify url connect db success 
+2020-09-17 16:03:43: ""
+2020-09-17 16:08:48: sync notify url connect db success 
+2020-09-17 16:08:48: ""
+2020-09-17 16:09:27: sync notify url connect db success 
+2020-09-17 16:09:27: ""
+2020-09-17 16:23:24: sync notify url connect db success 
+2020-09-17 16:23:24: ""
+2020-09-17 16:25:37: sync notify url connect db success 
+2020-09-17 16:25:37: ""
+2020-09-17 16:27:29: sync notify url connect db success 
+2020-09-17 16:27:29: ""
+2020-09-17 16:30:14: sync notify url connect db success 
+2020-09-17 16:30:14: ""
+2020-09-17 16:30:47: sync notify url connect db success 
+2020-09-17 16:30:47: ""
+2020-09-17 16:32:41: sync notify url connect db success 
+2020-09-17 16:32:41: ""
+2020-09-17 19:03:18: request {"role_id":"1042000699","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-17 19:03:18: request {"role_id":"1042000699","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-17 19:03:18: request {"role_id":"1042000699","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-17 19:03:18: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000699&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-17 19:03:18: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000699&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-17 19:03:18: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000699&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-17 19:03:34: request {"role_id":"1042000699","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-17 19:03:34: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000699&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-17 19:03:42: request {"role_id":"1042000699","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-17 19:03:42: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000699&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-17 11:03:47: openid = oQcUr5EWk4ASDP7r5q6M0qlKUKco
+2020-09-17 11:03:54: openid = oQcUr5EWk4ASDP7r5q6M0qlKUKco
+2020-09-17 19:46:58: request {"role_id":"1041000207","server_id":"1041","type":"0","type_key":"3","money":"30"}
+2020-09-17 19:46:58: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000207&type=0&type_key=3&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-18 09:03:10: request {"role_id":"1041000207","server_id":"1041","type":"0","type_key":"3","money":"30"}
+2020-09-18 09:03:10: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000207&type=0&type_key=3&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-18 15:50:26: request {"role_id":"1041000062","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-18 15:50:26: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000062&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-18 17:59:36: request {"role_id":"1042000624","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-18 17:59:36: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000624&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-18 19:07:07: sync notify url connect db success 
+2020-09-18 19:07:07: ""
+2020-09-18 19:44:28: request {"role_id":"1041000229","server_id":"1041","type":"0","type_key":"3","money":"30"}
+2020-09-18 19:44:28: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000229&type=0&type_key=3&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-18 22:38:47: request {"role_id":"1042000824","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-18 22:38:47: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000824&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-18 22:38:51: request {"role_id":"1042000824","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-18 22:38:51: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000824&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-18 14:38:55: openid = oQcUr5Fnd5Cq3DjeA1vLqywqjBYs
+2020-09-19 06:11:52: request {"role_id":"1042000865","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-19 06:11:52: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000865&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 06:21:30: request {"role_id":"1042000865","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-19 06:21:30: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000865&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 09:53:38: request {"role_id":"1042001069","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-19 09:53:38: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042001069&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 09:53:38: request {"role_id":"1042001069","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-19 09:53:38: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042001069&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 09:53:38: request {"role_id":"1042001069","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-19 09:53:38: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042001069&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 09:53:38: request {"role_id":"1042001069","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-19 09:53:38: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042001069&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 09:53:38: request {"role_id":"1042001069","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-19 09:53:38: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042001069&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 09:53:38: request {"role_id":"1042001069","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-19 09:53:38: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042001069&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 09:53:38: request {"role_id":"1042001069","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-19 09:53:38: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042001069&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 09:53:38: request {"role_id":"1042001069","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-19 09:53:38: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042001069&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 09:55:29: request {"role_id":"1042001069","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-19 09:55:29: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042001069&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 11:05:17: request {"role_id":"1042001168","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-19 11:05:17: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042001168&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 11:05:49: request {"role_id":"1042001168","server_id":"1042","type":"0","type_key":"6","money":"128"}
+2020-09-19 11:05:49: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042001168&type=0&type_key=6&money=128&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 11:05:52: request {"role_id":"1042001168","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-19 11:05:52: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042001168&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 11:07:42: request {"role_id":"1042001168","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-19 11:07:42: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042001168&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 11:07:47: request {"role_id":"1042001168","server_id":"1042","type":"5","type_key":"27","money":"30"}
+2020-09-19 11:07:47: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042001168&type=5&type_key=27&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 12:47:09: request {"role_id":"1041000685","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-19 12:47:09: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000685&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 12:49:31: request {"role_id":"1041000685","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-19 12:49:31: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000685&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 04:49:37: openid = oQcUr5B9al9sy__tfVdCOLd1AlK8
+2020-09-19 04:49:37: openid = oQcUr5B9al9sy__tfVdCOLd1AlK8
+2020-09-19 12:49:41: {"appId":"wx85e8e6fce747468a","nonceStr":"kIUTM3AivMr4EF6b","timestamp":1600490981,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009191249311320&mdata=6&s=67d705303112d8f47b789e934bead870&code=011VSJGa1bBRCz0iquIa1OvLXG2VSJGC&state=123","signature":"535c15c54d2e8dac84dd6d9597367a50b2306fe7","rawString":"jsapi_ticket=&noncestr=kIUTM3AivMr4EF6b&timestamp=1600490981&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009191249311320&mdata=6&s=67d705303112d8f47b789e934bead870&code=011VSJGa1bBRCz0iquIa1OvLXG2VSJGC&state=123"}
+2020-09-19 12:49:41: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"LvULRZpqatWcteHp","prepay_id":"wx19124941949321db4d19746c72c5840000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"037EA40005433125BD841C93C5101A442E6E5AB71048F74E41F2EC2938899C25","trade_type":"JSAPI"}
+2020-09-19 12:49:41: {"appId":"wxc9feabf90096782c","nonceStr":"fgpq0jncj3dpsal5johb46d8vnoz7je2","package":"prepay_id=wx19124941949321db4d19746c72c5840000","signType":"HMAC-SHA256","timeStamp":"1600490981","paySign":"55A5B2CC81676127A695CA59BF7F0474B1AF8B0679C1798B5FEDDD5BCF10C74D"}
+2020-09-19 12:49:47: begin notify
+2020-09-19 12:49:47: call back:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"OTHERS","cash_fee":"600","fee_type":"CNY","is_subscribe":"N","mch_id":"1537253871","nonce_str":"5yauu6zixtqwe5ybzl16v9uemr2ud7m6","openid":"oY3AKw3a_M7nVETjO8MZMQRhw1Bs","out_trade_no":"wx202009191249311320","result_code":"SUCCESS","return_code":"SUCCESS","sign":"EADF4EF66BF2EF047D8AF1B7C4CBA1DCADE61741FB68C89591B0CEC61BC5BA9D","time_end":"20200919124946","total_fee":"600","trade_type":"JSAPI","transaction_id":"4200000764202009199145888567"}
+2020-09-19 12:49:47: pay notify url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/pay_notify?out_order_no=wx202009191249311320&order_no=4200000764202009199145888567&pay_time=20200919124946&amount=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 12:49:47: query:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"OTHERS","cash_fee":"600","cash_fee_type":"CNY","fee_type":"CNY","is_subscribe":"N","mch_id":"1537253871","nonce_str":"QRV5m0nyZpOcUvIr","openid":"oY3AKw3a_M7nVETjO8MZMQRhw1Bs","out_trade_no":"wx202009191249311320","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"F47D7EEAB9414BE415914E49BD72FAC100CD0EB27B6C24B93593A199910C55DF","time_end":"20200919124946","total_fee":"600","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000764202009199145888567"}
+2020-09-19 12:49:47: call back， return xml:<xml><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg></xml>
+2020-09-19 13:22:30: request {"role_id":"1041000198","server_id":"1041","type":"0","type_key":"3","money":"30"}
+2020-09-19 13:22:30: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000198&type=0&type_key=3&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 13:30:31: request {"role_id":"1041000685","server_id":"1041","type":"2","type_key":"11","money":"148"}
+2020-09-19 13:30:31: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000685&type=2&type_key=11&money=148&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 18:41:09: request {"role_id":"1042001760","server_id":"1042","type":"0","type_key":"6","money":"128"}
+2020-09-19 18:41:09: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042001760&type=0&type_key=6&money=128&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-19 10:41:14: openid = oQcUr5NEFlDHndfxlGIsXZPNdFSA
+2020-09-19 10:41:23: openid = oQcUr5NEFlDHndfxlGIsXZPNdFSA
+2020-09-20 11:12:45: request {"role_id":"1042000824","server_id":"1042","type":"5","type_key":"27","money":"30"}
+2020-09-20 11:12:45: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000824&type=5&type_key=27&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-20 11:13:00: request {"role_id":"1042000824","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-20 11:13:00: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042000824&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-20 03:13:05: openid = oQcUr5Fnd5Cq3DjeA1vLqywqjBYs
+2020-09-20 18:52:53: request {"role_id":"1041000450","server_id":"1041","type":"2","type_key":"11","money":"148"}
+2020-09-20 18:52:53: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000450&type=2&type_key=11&money=148&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-20 19:26:31: request {"role_id":"1042002774","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-20 19:26:31: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042002774&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-20 19:46:51: request {"role_id":"1041000207","server_id":"1041","type":"2","type_key":"11","money":"148"}
+2020-09-20 19:46:51: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000207&type=2&type_key=11&money=148&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-21 10:09:05: request {"role_id":"1041000105","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-21 10:09:05: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000105&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-21 11:54:37: request {"role_id":"1042002774","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-21 11:54:37: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042002774&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-21 11:54:37: request {"role_id":"1042002774","server_id":"1042","type":"0","type_key":"2","money":"6"}
+2020-09-21 11:54:37: url=http://s997.charge.sxwj.stonegame.club:21042/bizpay/order?role_id=1042002774&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-21 17:20:18: sync notify url connect db success 
+2020-09-21 17:20:18: ""
+2020-09-21 18:03:15: request {"role_id":"1041000450","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-21 18:03:15: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000450&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-21 18:46:06: request {"role_id":"1041000207","server_id":"1041","type":"2","type_key":"11","money":"148"}
+2020-09-21 18:46:06: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000207&type=2&type_key=11&money=148&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-21 18:49:05: request {"role_id":"1043000410","server_id":"1043","type":"0","type_key":"2","money":"6"}
+2020-09-21 18:49:05: url=http://s997.charge.sxwj.stonegame.club:21043/bizpay/order?role_id=1043000410&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-21 19:46:28: request {"role_id":"1043001602","server_id":"1043","type":"0","type_key":"2","money":"6"}
+2020-09-21 19:46:28: url=http://s997.charge.sxwj.stonegame.club:21043/bizpay/order?role_id=1043001602&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-21 19:51:13: sync notify url connect db success 
+2020-09-21 19:51:13: ""
+2020-09-22 12:44:37: sync notify url connect db success 
+2020-09-22 12:44:37: ""
+2020-09-22 16:54:04: sync notify url connect db success 
+2020-09-22 16:54:04: ""
+2020-09-22 20:23:11: sync notify url connect db success 
+2020-09-22 20:23:11: Connection failed: Too many connections
+2020-09-22 20:36:29: sync notify url connect db success 
+2020-09-22 20:36:29: ""
+2020-09-23 09:57:09: sync notify url connect db success 
+2020-09-23 09:57:09: ""
+2020-09-23 12:04:40: request {"role_id":"1044000374","server_id":"1044","type":"5","type_key":"27","money":"30"}
+2020-09-23 12:04:40: url=http://s997.charge.sxwj.stonegame.club:21044/bizpay/order?role_id=1044000374&type=5&type_key=27&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-23 04:04:45: openid = oQcUr5KWvJlVnLXh_9xsU3mX1KOU
+2020-09-23 12:04:46: {"appId":"wx85e8e6fce747468a","nonceStr":"K90Wm4tlyUjIl3cf","timestamp":1600833886,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151749181094&mdata=6&s=1ff70bc0c0c00a5d35a33abcd007c116&code=021GXt1w3Zkw1V2sWb0w37VeAZ3GXt1w&state=123","signature":"a733284f3a557329507918111fc64e1241d17d67","rawString":"jsapi_ticket=&noncestr=K90Wm4tlyUjIl3cf&timestamp=1600833886&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009151749181094&mdata=6&s=1ff70bc0c0c00a5d35a33abcd007c116&code=021GXt1w3Zkw1V2sWb0w37VeAZ3GXt1w&state=123"}
+2020-09-23 12:04:46: {"appid":"wxc9feabf90096782c","err_code":"ORDERPAID","err_code_des":"该订单已支付","mch_id":"1537253871","nonce_str":"vrEREo6EWm1Jsz7C","result_code":"FAIL","return_code":"SUCCESS","return_msg":"OK","sign":"05B379CED3C4FAD970FA7A3204C9FB965EA3A907146C9204CD04B40DAB52B680"}
+2020-09-23 12:04:46: {}
+2020-09-23 12:05:01: request {"role_id":"1041000004","server_id":"1041","type":"5","type_key":"27","money":"30"}
+2020-09-23 12:05:01: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000004&type=5&type_key=27&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-23 04:05:03: openid = oQcUr5Oog9qND0rMqmwn4u5OjnP0
+2020-09-23 04:05:06: openid = oQcUr5Oog9qND0rMqmwn4u5OjnP0
+2020-09-23 12:05:13: {"appId":"wx85e8e6fce747468a","nonceStr":"Ss25ewitGoprMLLp","timestamp":1600833913,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009231205011338&mdata=30&s=dd373097f19c5ad7ee5fc00b03229807&code=041gcLFa1FwNFz0ub9Ga1xUmbs2gcLF8&state=123","signature":"09984c88fb09e41af97efbf8dbc5219842cae3d3","rawString":"jsapi_ticket=&noncestr=Ss25ewitGoprMLLp&timestamp=1600833913&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009231205011338&mdata=30&s=dd373097f19c5ad7ee5fc00b03229807&code=041gcLFa1FwNFz0ub9Ga1xUmbs2gcLF8&state=123"}
+2020-09-23 12:05:14: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"KyAyCBPVzTaD8YM9","prepay_id":"wx231205142844685ec2c5da1dfb0ee00000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"07782E60188BEA15EC993F4857D2B926B48024C3930A88CB3C2DEA09819625D7","trade_type":"JSAPI"}
+2020-09-23 12:05:14: {"appId":"wxc9feabf90096782c","nonceStr":"efym1lwfrv2pbg7ic7oajee5smvmnt2m","package":"prepay_id=wx231205142844685ec2c5da1dfb0ee00000","signType":"HMAC-SHA256","timeStamp":"1600833914","paySign":"73EB3D2E3F70F5E944D03671040BEB325BB142197C899FEE679834CA0B8F0783"}
+2020-09-23 12:05:28: request {"role_id":"1044000374","server_id":"1044","type":"5","type_key":"27","money":"30"}
+2020-09-23 12:05:28: url=http://s997.charge.sxwj.stonegame.club:21044/bizpay/order?role_id=1044000374&type=5&type_key=27&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-23 04:05:30: openid = oQcUr5KWvJlVnLXh_9xsU3mX1KOU
+2020-09-23 04:05:34: openid = oQcUr5KWvJlVnLXh_9xsU3mX1KOU
+2020-09-23 12:05:38: request {"role_id":"1044000374","server_id":"1044","type":"5","type_key":"27","money":"30"}
+2020-09-23 12:05:38: url=http://s997.charge.sxwj.stonegame.club:21044/bizpay/order?role_id=1044000374&type=5&type_key=27&money=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-23 04:05:41: openid = oQcUr5KWvJlVnLXh_9xsU3mX1KOU
+2020-09-23 12:05:42: {"appId":"wx85e8e6fce747468a","nonceStr":"93pzin01hwTiAt17","timestamp":1600833942,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009231205281030&mdata=30&s=215787909d78baab941ee1d057a4a191&code=091f1u1w3zgw1V25Ro1w3C7YJQ1f1u18&state=123","signature":"f23857e829fe2b3cb6afc8e75e96e0b7c5c190c2","rawString":"jsapi_ticket=&noncestr=93pzin01hwTiAt17&timestamp=1600833942&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009231205281030&mdata=30&s=215787909d78baab941ee1d057a4a191&code=091f1u1w3zgw1V25Ro1w3C7YJQ1f1u18&state=123"}
+2020-09-23 12:05:43: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"MQyO9iZvXMC6Mr74","prepay_id":"wx231205429747318a55d65b9ef5e20e0000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"CB23563D4A5D75E8613FC8B93521484EB80E23BCC8938259381A394C1BE05D3B","trade_type":"JSAPI"}
+2020-09-23 12:05:43: {"appId":"wxc9feabf90096782c","nonceStr":"hqlorv1jlvlid7i1kh64bv84prv1jn9t","package":"prepay_id=wx231205429747318a55d65b9ef5e20e0000","signType":"HMAC-SHA256","timeStamp":"1600833943","paySign":"EA23E4C33884A57754359EFACFA46E3155B1CDFA20581770AFBAF780FF791726"}
+2020-09-23 12:05:58: {"appId":"wx85e8e6fce747468a","nonceStr":"bdIfLC6SPqBJKQNg","timestamp":1600833958,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009231205381031&mdata=30&s=ca9eccddaea58257bcef9c850d1834cb&code=011aTE0w30TAZU26NU0w3ZwjRi4aTE0O&state=123","signature":"e6ff2a70012eed2992cc6d00bf66bf1bc59a60fa","rawString":"jsapi_ticket=&noncestr=bdIfLC6SPqBJKQNg&timestamp=1600833958&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009231205381031&mdata=30&s=ca9eccddaea58257bcef9c850d1834cb&code=011aTE0w30TAZU26NU0w3ZwjRi4aTE0O&state=123"}
+2020-09-23 12:05:58: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"lFXk7CeDun87gcx9","prepay_id":"wx23120558911558eb7b0d20fed1e6af0000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"7DAC5EC62624B62999D002203A0E66C37A11CD3FB6E808EA78687B88D063334D","trade_type":"JSAPI"}
+2020-09-23 12:05:58: {"appId":"wxc9feabf90096782c","nonceStr":"l7g1sa538z5anv2wlclvv98cb95mxzen","package":"prepay_id=wx23120558911558eb7b0d20fed1e6af0000","signType":"HMAC-SHA256","timeStamp":"1600833958","paySign":"5D1ED54663FD79003245E8659C2C74F5528A3402492C2CFA4E355C0F47860040"}
+2020-09-23 12:06:05: begin notify
+2020-09-23 12:06:05: call back:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"OTHERS","cash_fee":"3000","fee_type":"CNY","is_subscribe":"Y","mch_id":"1537253871","nonce_str":"vr5qk4t5mjc2ggtxotqrpz2ktzu1brga","openid":"oY3AKw41TvuVIarVVUB5wL3Lcu9c","out_trade_no":"wx202009231205381031","result_code":"SUCCESS","return_code":"SUCCESS","sign":"14BBF7B2743D98A1806C5B7E4AC8782EEE0D43CF3C546788B4E81290BFA7B1AC","time_end":"20200923120605","total_fee":"3000","trade_type":"JSAPI","transaction_id":"4200000758202009233082779237"}
+2020-09-23 12:06:05: pay notify url=http://s997.charge.sxwj.stonegame.club:21044/bizpay/pay_notify?out_order_no=wx202009231205381031&order_no=4200000758202009233082779237&pay_time=20200923120605&amount=30&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-23 12:06:06: query:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"OTHERS","cash_fee":"3000","cash_fee_type":"CNY","fee_type":"CNY","is_subscribe":"Y","mch_id":"1537253871","nonce_str":"YNgSaZZLIinlsIlB","openid":"oY3AKw41TvuVIarVVUB5wL3Lcu9c","out_trade_no":"wx202009231205381031","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"D587899FD4D3216486BE449BD2397E6DF8D1354BFEB63D4896F3E42F93C1417E","time_end":"20200923120605","total_fee":"3000","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000758202009233082779237"}
+2020-09-23 12:06:06: call back， return xml:<xml><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg></xml>
+2020-09-23 12:06:13: {"appId":"wx85e8e6fce747468a","nonceStr":"2DWZbRdGsphnwGtg","timestamp":1600833973,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009231205381031&mdata=30&s=ca9eccddaea58257bcef9c850d1834cb&code=0015UE0w3DTAZU2Xtf4w3YqoYw05UE0a&state=123","signature":"6de32f8b06863022319a6a6815e813fa08af54c3","rawString":"jsapi_ticket=&noncestr=2DWZbRdGsphnwGtg&timestamp=1600833973&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009231205381031&mdata=30&s=ca9eccddaea58257bcef9c850d1834cb&code=0015UE0w3DTAZU2Xtf4w3YqoYw05UE0a&state=123"}
+2020-09-23 12:06:13: {"appid":"wxc9feabf90096782c","err_code":"ORDERPAID","err_code_des":"该订单已支付","mch_id":"1537253871","nonce_str":"zqIzY8MGgfpc09Qp","result_code":"FAIL","return_code":"SUCCESS","return_msg":"OK","sign":"992EE4DFA6508A6508727B0CBB5E34CA8A2ACEDC9F58AC683810231747C185D0"}
+2020-09-23 12:06:13: {}
+2020-09-23 15:10:41: request {"role_id":"1044001503","server_id":"1044","type":"0","type_key":"2","money":"6"}
+2020-09-23 15:10:41: url=http://s997.charge.sxwj.stonegame.club:21044/bizpay/order?role_id=1044001503&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-23 07:10:43: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-23 07:10:52: openid = oQcUr5ASdnL4iKtCE7lPySUfj97o
+2020-09-23 15:10:59: {"appId":"wx85e8e6fce747468a","nonceStr":"sx6cVi21P4fyhHOn","timestamp":1600845059,"url":"https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009231510411049&mdata=6&s=211e0c95f473ebb3045fc8e8969171f5&code=0216VNll2TEDG54ztMkl2agfHp46VNlq&state=123","signature":"c8f5ffedbecaa006b25d9df3372765eaba23d8a2","rawString":"jsapi_ticket=&noncestr=sx6cVi21P4fyhHOn&timestamp=1600845059&url=https:\/\/jsapi.sxwj.1cent.xyz\/bizpay\/auth.php?order_id=wx202009231510411049&mdata=6&s=211e0c95f473ebb3045fc8e8969171f5&code=0216VNll2TEDG54ztMkl2agfHp46VNlq&state=123"}
+2020-09-23 15:11:00: {"appid":"wxc9feabf90096782c","mch_id":"1537253871","nonce_str":"ep7fbkyQVh08auvO","prepay_id":"wx23151100326245e0b888bae37380800000","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"76BAD0B16D71CA1CEFFD13E1BF7D2D7DB4A9821555434DD648A0FB4744FC8B5E","trade_type":"JSAPI"}
+2020-09-23 15:11:00: {"appId":"wxc9feabf90096782c","nonceStr":"z2ol59hw8fqv3s21gxy6g5a6j1sr7vmt","package":"prepay_id=wx23151100326245e0b888bae37380800000","signType":"HMAC-SHA256","timeStamp":"1600845060","paySign":"5DEA2F7FB6516F1432418B658787BF96FC176C5E2031E77F67BAB70060CFEEE8"}
+2020-09-23 15:11:05: begin notify
+2020-09-23 15:11:05: call back:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"SPDB_CREDIT","cash_fee":"600","fee_type":"CNY","is_subscribe":"Y","mch_id":"1537253871","nonce_str":"uaq0w2eyb3s7yhkq7d04uypio6k0kt82","openid":"oY3AKw3nD5XKfSr9I6tFTe_dFWXM","out_trade_no":"wx202009231510411049","result_code":"SUCCESS","return_code":"SUCCESS","sign":"D4884395426DD457892AD587719036E0F3659C1328A4ADE384D0050A4F1247EB","time_end":"20200923151104","total_fee":"600","trade_type":"JSAPI","transaction_id":"4200000757202009239848821171"}
+2020-09-23 15:11:05: pay notify url=http://s997.charge.sxwj.stonegame.club:21044/bizpay/pay_notify?out_order_no=wx202009231510411049&order_no=4200000757202009239848821171&pay_time=20200923151104&amount=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-23 15:11:05: query:{"appid":"wxc9feabf90096782c","attach":"test","bank_type":"SPDB_CREDIT","cash_fee":"600","cash_fee_type":"CNY","fee_type":"CNY","is_subscribe":"Y","mch_id":"1537253871","nonce_str":"0DG5JzxQfuxSZRYi","openid":"oY3AKw3nD5XKfSr9I6tFTe_dFWXM","out_trade_no":"wx202009231510411049","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"1192A46E0CB6054DBF18BA022C819922B630F6D13872B72386F2BF7318DAC877","time_end":"20200923151104","total_fee":"600","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000757202009239848821171"}
+2020-09-23 15:11:05: call back， return xml:<xml><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg></xml>
+2020-09-23 17:46:49: request {"role_id":"1041000198","server_id":"1041","type":"0","type_key":"2","money":"6"}
+2020-09-23 17:46:49: url=http://s997.charge.sxwj.stonegame.club:21041/bizpay/order?role_id=1041000198&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-23 19:07:08: request {"role_id":"1043000410","server_id":"1043","type":"0","type_key":"2","money":"6"}
+2020-09-23 19:07:08: url=http://s997.charge.sxwj.stonegame.club:21043/bizpay/order?role_id=1043000410&type=0&type_key=2&money=6&key=fsdlfGwfgkGBwgljl234LFwgwfwgll
+2020-09-23 19:53:40: sync notify url connect db success 
+2020-09-23 19:53:40: ""
+2020-09-24 15:27:23: sync notify url connect db success 
+2020-09-24 15:27:23: ""
+2020-09-24 15:27:45: sync notify url connect db success 
+2020-09-24 15:27:45: ""
